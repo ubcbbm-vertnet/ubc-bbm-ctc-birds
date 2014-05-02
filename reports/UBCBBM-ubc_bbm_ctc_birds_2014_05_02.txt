@@ -1,0 +1,111 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 1393
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-03 ; Times: 8
+	Date: 2014-04-05 ; Times: 1
+	Date: 2014-04-06 ; Times: 3
+	Date: 2014-04-07 ; Times: 7
+	Date: 2014-04-08 ; Times: 3
+	Date: 2014-04-09 ; Times: 1
+	Date: 2014-04-10 ; Times: 4
+	Date: 2014-04-11 ; Times: 2
+	Date: 2014-04-14 ; Times: 6
+	Date: 2014-04-15 ; Times: 2
+	Date: 2014-04-16 ; Times: 1
+	Date: 2014-04-17 ; Times: 1
+	Date: 2014-04-19 ; Times: 6
+	Date: 2014-04-21 ; Times: 3
+	Date: 2014-04-22 ; Times: 1
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-28 ; Times: 1
+	Date: 2014-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "snowy owl" ; Times: 1
+	Query: ""Aquila chrysaetos" institutioncode:UBCBBM" ; Times: 1
+	Query: "institutioncode:ubcbbm media:1" ; Times: 5
+	Query: "McTaggart Cowan" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 6
+	Query: "black necked stilt" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 12
+	Query: "peafowl" ; Times: 1
+	Query: "McTaggart Cowan 1960" ; Times: 1
+	Query: "formicivora grisea" ; Times: 1
+	Query: "ubcbbm" ; Times: 2
+	Query: "Cowan" ; Times: 1
+	Query: "Gallirallus australis" ; Times: 1
+	Query: "Actitis macularius" ; Times: 2
+	Query: "Golden Eagle Cowan" ; Times: 1
+	Query: "limosa fedoa" ; Times: 1
+	Query: "McT. Cowan year >= 1960 year <= 2000" ; Times: 1
+	Query: "ubcbbm ctc b016072" ; Times: 1
+	Query: "rufous hummingbird" ; Times: 1
+	Query: "coccycua minuta" ; Times: 2
+	Query: "Ian McT. Cowan" ; Times: 1
+	Query: "specimen yellow-bellied flycatcher" ; Times: 1
+	Query: "institutioncode:ubcbbm" ; Times: 3
+	Query: "ombirds" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 433 download events in this period)
+Total number of records downloaded: 64 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 60
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-02 ; Times: 1
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-10 ; Times: 1
+	Date: 2014-04-22 ; Times: 1
+	Date: 2014-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "Rausch type:specimen" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "jacana" ; Times: 1
+	Query: "University of Michigan Museum Zoology" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 52
+Total number of records retrieved from searches: 1393
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 3084
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 52
+Total number of records retrieved from searches: 1393
+Number of download events that retrieved data from the resource: 92
+Total number of records downloaded: 39172
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
