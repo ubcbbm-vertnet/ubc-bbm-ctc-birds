@@ -1,0 +1,122 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 1761
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Canada ; Times: 26
+	Country: Philippines ; Times: 4
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 7
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-06 ; Times: 10
+	Date: 2014-05-09 ; Times: 4
+	Date: 2014-05-13 ; Times: 1
+	Date: 2014-05-14 ; Times: 2
+	Date: 2014-05-15 ; Times: 3
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-17 ; Times: 12
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 3
+	Date: 2014-05-23 ; Times: 3
+	Date: 2014-05-26 ; Times: 4
+	Date: 2014-05-28 ; Times: 5
+	Date: 2014-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Kenneth Racey" ; Times: 2
+	Query: "Northern cardinal" ; Times: 2
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "house finch" ; Times: 2
+	Query: "prothonotary warbler" ; Times: 4
+	Query: "Dipper" ; Times: 1
+	Query: "calyptorhynchus banksii" ; Times: 1
+	Query: "Plumbeous Vireo" ; Times: 2
+	Query: "tree swallow" ; Times: 1
+	Query: "specificepithet:nigripes genus:Phoebastria" ; Times: 1
+	Query: "piranga bidentata type:specimen year >= 1950 year <= 2013" ; Times: 1
+	Query: ""shrike" institutioncode:UBCBBM" ; Times: 1
+	Query: "recordedby:K. Racey" ; Times: 5
+	Query: ""Sphyrapicus thyroideus" institutioncode:ubcbbm" ; Times: 1
+	Query: "hoazin" ; Times: 1
+	Query: ""A C Brooks"" ; Times: 2
+	Query: ""cerulean warbler" institutioncode:UBCBBM" ; Times: 1
+	Query: "white throated sparrow" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "socorro dove" ; Times: 1
+	Query: "cairina" ; Times: 3
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:scandiacus genus:Bubo tissue:1" ; Times: 1
+	Query: ""western wood-pewee"" ; Times: 1
+	Query: "Northern Cardinal egg type:specimen" ; Times: 2
+	Query: "habia rubica" ; Times: 1
+	Query: ""OMBIRDS" type:specimen" ; Times: 1
+	Query: ""black hawk" institutioncode:ubcbbm" ; Times: 1
+	Query: "barred owl" ; Times: 2
+	Query: ""Sphyrapicus thyroideus" institutioncode:ubcbbm (skin)" ; Times: 1
+	Query: "piranga bidentata" ; Times: 1
+	Query: ""prothonotary warbler" type:specimen (skin)" ; Times: 2
+	Query: ""loggerhead shrike" institutioncode:UBCBBM" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "warbler" ; Times: 1
+	Query: "Socorro Dove" ; Times: 1
+	Query: "northern parula" ; Times: 1
+	Query: "Kenneth Racey 1952" ; Times: 1
+	Query: "Kenneth Racey 1960" ; Times: 1
+	Query: "Kenneth Racey 1963" ; Times: 1
+	Query: "institutioncode:ubcbbm" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1679 download events in this period)
+Total number of records downloaded: 63 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 63
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 4
+	Date: 2014-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 116
+Total number of records retrieved from searches: 3154
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 3147
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 116
+Total number of records retrieved from searches: 3154
+Number of download events that retrieved data from the resource: 97
+Total number of records downloaded: 39235
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
