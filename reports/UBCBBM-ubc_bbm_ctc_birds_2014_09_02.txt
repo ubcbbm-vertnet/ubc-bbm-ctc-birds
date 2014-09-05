@@ -1,0 +1,135 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 1377
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 51
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 4
+	Date: 2014-08-05 ; Times: 1
+	Date: 2014-08-06 ; Times: 2
+	Date: 2014-08-07 ; Times: 2
+	Date: 2014-08-08 ; Times: 14
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-11 ; Times: 15
+	Date: 2014-08-12 ; Times: 7
+	Date: 2014-08-13 ; Times: 3
+	Date: 2014-08-14 ; Times: 3
+	Date: 2014-08-15 ; Times: 2
+	Date: 2014-08-18 ; Times: 2
+	Date: 2014-08-20 ; Times: 7
+	Date: 2014-08-21 ; Times: 4
+	Date: 2014-08-26 ; Times: 2
+	Date: 2014-08-27 ; Times: 3
+	Date: 2014-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "banding class:aves" ; Times: 10
+	Query: ""leg band" class:aves" ; Times: 1
+	Query: "tepic" ; Times: 3
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "country:"russia" class:aves year >= 1940 year <= 1960" ; Times: 1
+	Query: "stateprovince:"manitoba" specificepithet:corax genus:corvus AND (NOT sound)" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "country:"kazakhstan" class:aves year >= 1940 year <= 1960" ; Times: 1
+	Query: "eider" ; Times: 2
+	Query: "dead lands" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 3
+	Query: "Pinguinus impennis" ; Times: 14
+	Query: "country:"canada" specificepithet:corax genus:corvus year >= 1970 year <= 2014" ; Times: 1
+	Query: "pigeon institutioncode:UBCBBM" ; Times: 2
+	Query: "surf scoter" ; Times: 6
+	Query: "heermann" ; Times: 2
+	Query: "country:"Pakistan" year >= 1910 year <= 1925" ; Times: 1
+	Query: "accipiter gentilis atricapillus ubc" ; Times: 4
+	Query: "accipiter gentilis atricapillus alberta" ; Times: 1
+	Query: "Passerina versicolor" ; Times: 1
+	Query: "stateprovince:"manitoba" specificepithet:corax genus:corvus AND (NOT sound NOT churchill)" ; Times: 2
+	Query: "country:"canada" specificepithet:corax genus:corvus AND (NOT sound) year >= 1970 year <= 2014" ; Times: 1
+	Query: "beaty accipitriformes" ; Times: 4
+	Query: "stateprovince:"manitoba" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "Chroicocephalus" ; Times: 1
+	Query: "cockatiel" ; Times: 1
+	Query: "northern mockingbird type:specimen (eggs)" ; Times: 1
+	Query: "country:"canada" specificepithet:corax genus:corvus year >= 1920 year <= 2014" ; Times: 1
+	Query: "country:"Pakistan" class:aves year >= 1910 year <= 1925" ; Times: 2
+	Query: "specificepithet:laysanensis genus:Anas" ; Times: 1
+	Query: "spotted crake" ; Times: 1
+	Query: "pigeon institutioncode:UBCBBM (Ectopistes migratorius)" ; Times: 1
+	Query: "rosefinch" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 273 download events in this period)
+Total number of records downloaded: 1677 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1300
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-19 ; Times: 3
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 2
+	Date: 2014-08-28 ; Times: 3
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Corvus corax" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "anas laysanensis" ; Times: 1
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 313
+Total number of records retrieved from searches: 6547
+Number of download events that retrieved data from the resource: 109
+Total number of records downloaded: 6005
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 313
+Total number of records retrieved from searches: 6547
+Number of download events that retrieved data from the resource: 157
+Total number of records downloaded: 42093
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
