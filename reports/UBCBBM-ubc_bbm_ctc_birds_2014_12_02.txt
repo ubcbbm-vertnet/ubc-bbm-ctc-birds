@@ -1,0 +1,104 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 2368
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 44
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Italy ; Times: 2
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-04 ; Times: 5
+	Date: 2014-11-05 ; Times: 3
+	Date: 2014-11-06 ; Times: 1
+	Date: 2014-11-07 ; Times: 1
+	Date: 2014-11-10 ; Times: 5
+	Date: 2014-11-12 ; Times: 2
+	Date: 2014-11-13 ; Times: 29
+	Date: 2014-11-15 ; Times: 2
+	Date: 2014-11-16 ; Times: 5
+	Date: 2014-11-17 ; Times: 6
+	Date: 2014-11-19 ; Times: 1
+	Date: 2014-11-20 ; Times: 1
+	Date: 2014-11-21 ; Times: 1
+	Date: 2014-11-24 ; Times: 1
+	Date: 2014-11-25 ; Times: 4
+	Date: 2014-11-27 ; Times: 5
+	Date: 2014-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Molothrus ater artemisiae year <= 1909" ; Times: 1
+	Query: "Fulica tissue:1" ; Times: 1
+	Query: "Cowan Tetrapod Collection" ; Times: 2
+	Query: "Yellow-billed Cuckoo" ; Times: 1
+	Query: "Northern Saw-whet" ; Times: 29
+	Query: "Surf scoter" ; Times: 1
+	Query: "hooded warbler" ; Times: 1
+	Query: "Northern Saw-whet type:specimen institutioncode:UBCBBM year >= 2000 year <= 2014" ; Times: 1
+	Query: "mellivora" ; Times: 1
+	Query: "type:specimen institutioncode:UBCBBM year >= 2000 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:tucanus genus:ramphastos class:aves" ; Times: 1
+	Query: "citrine wagtail" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "white-eyed vireo" ; Times: 1
+	Query: "gymnopithys rufigula" ; Times: 3
+	Query: "northern saw-whet owl" ; Times: 3
+	Query: "black-necked" ; Times: 1
+	Query: "Albatross" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "owl feathers" ; Times: 1
+	Query: "Black scoter" ; Times: 1
+	Query: ""Pinguinus impennis"" ; Times: 1
+	Query: "elaenia flavogaster guyana" ; Times: 1
+	Query: "Cowan Tetrapod Collection stateprovince:"British Columbia" country:"Canada"" ; Times: 1
+	Query: "type:specimen (hooded citrina) AND (egg)" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 2
+	Query: "type:specimen (hooded citrina)" ; Times: 2
+	Query: "UBCBBM penguin" ; Times: 1
+	Query: "Saw-whet type:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 2
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 2
+	Query: "UBCBBM CTC" ; Times: 2
+	Query: "Northern Saw-whet type:specimen institutioncode:UBCBBM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 457
+Total number of records retrieved from searches: 10137
+Number of download events that retrieved data from the resource: 146
+Total number of records downloaded: 7245
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 457
+Total number of records retrieved from searches: 10137
+Number of download events that retrieved data from the resource: 194
+Total number of records downloaded: 43333
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
