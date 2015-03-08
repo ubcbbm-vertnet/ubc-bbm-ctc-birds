@@ -1,0 +1,205 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 2155
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 29
+	Country: Mexico ; Times: 13
+	Country: Portugal ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 61
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-02 ; Times: 7
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 5
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-08 ; Times: 2
+	Date: 2015-02-09 ; Times: 3
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 14
+	Date: 2015-02-13 ; Times: 13
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 10
+	Date: 2015-02-20 ; Times: 2
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-22 ; Times: 5
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 5
+	Date: 2015-02-25 ; Times: 6
+	Date: 2015-02-26 ; Times: 4
+	Date: 2015-02-27 ; Times: 21
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "red throated bee eater recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "UBCBBM" ; Times: 2
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Vireo flavoviridis" ; Times: 10
+	Query: "Coccyzus minor" ; Times: 1
+	Query: ""buteo lineatus" institutioncode:ubcbbm" ; Times: 1
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "prinia socialis type:specimen" ; Times: 2
+	Query: "fregata magnificens" ; Times: 4
+	Query: "Megascops choliba" ; Times: 1
+	Query: "passenger pigeon institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT usa NOT united ) year >= 1990 year <= 2015" ; Times: 1
+	Query: "pin tailed whydah recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "andigena laminirostris" ; Times: 1
+	Query: "class:Aves institutioncode:UBCBBM" ; Times: 2
+	Query: "Turdus ignobilis" ; Times: 2
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "lava gull" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Cowan tetrapod collection" ; Times: 2
+	Query: "Bubo virginianus saturatus" ; Times: 2
+	Query: "Bat falcon" ; Times: 1
+	Query: "albatross albatrus class:Aves" ; Times: 1
+	Query: "Caprimulgus europaeus" ; Times: 1
+	Query: "rhea americana" ; Times: 1
+	Query: "Tui" ; Times: 1
+	Query: "(Cacicus haemorrhous)" ; Times: 1
+	Query: "type:specimen specificepithet:flammeolus tissue:1" ; Times: 1
+	Query: "milvus migrans type:specimen country:"India"" ; Times: 1
+	Query: "fregata magnificens mexico type:specimen" ; Times: 1
+	Query: "common redpoll" ; Times: 1
+	Query: "brain type:specimen (tissue OR preserved) tissue:1" ; Times: 3
+	Query: "corvus splendens type:specimen country:"India"" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 8
+	Query: "Barbet recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "ubcbbm" ; Times: 2
+	Query: "northern Wheatear" ; Times: 1
+	Query: "recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "Otus brucei" ; Times: 2
+	Query: "yellow rail" ; Times: 2
+	Query: "Parulidae class:aves recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "fregata magnificens mappable:1" ; Times: 3
+	Query: "empidonax traillii year >= 1990 year <= 2013 mappable:1" ; Times: 1
+	Query: "cairina moschata" ; Times: 1
+	Query: "county:"Marshall" stateprovince:"Kansas" year >= 1960 year <= 2015" ; Times: 2
+	Query: "type:specimen genus:Monasa" ; Times: 2
+	Query: "goldeneye recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Strix AND (NOT "United States") tissue:1" ; Times: 1
+	Query: "chaetura pelagica mappable:1" ; Times: 2
+	Query: "Fregata Magnificens mappable:1" ; Times: 5
+	Query: "Megascops tissue:1" ; Times: 1
+	Query: "institutioncode:UBCBBM media:1" ; Times: 1
+	Query: "Chen canagica" ; Times: 3
+	Query: "Leucosticte atrata" ; Times: 2
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "lophornis ornatus" ; Times: 1
+	Query: "accipiter badius type:specimen country:"India"" ; Times: 1
+	Query: "genus:Strix AND (NOT "United States" NOT "USA") tissue:1" ; Times: 1
+	Query: "prinia socialis" ; Times: 2
+	Query: "Vireo flavoviridis South America" ; Times: 2
+	Query: "Numenius arquata" ; Times: 2
+	Query: "bonaparte gull recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "dicrurus macrocercus type:specimen country:"India"" ; Times: 1
+	Query: "Phoebastria albatrus" ; Times: 2
+	Query: "bubo scandiacus tissue:1" ; Times: 1
+	Query: "Koklass" ; Times: 2
+	Query: "genus:melospiza specificepithet:melodia year:1963" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "goldeneye institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:melospiza specificepithet:melodia year:1936" ; Times: 1
+	Query: "penguin institutioncode:UBCBBM" ; Times: 1
+	Query: "hummingbird mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 326 download events in this period)
+Total number of records downloaded: 556 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 553
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 2
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "Monasa year <= 2015" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bubo africanus" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Cardinalis Sinaloa" ; Times: 1
+	Query: "aves stateprovince:"colima" country:"mexico" class:aves mappable:1" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "brain type:specimen (tissue OR preserved) tissue:1" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 668
+Total number of records retrieved from searches: 13030
+Number of download events that retrieved data from the resource: 60
+Total number of records downloaded: 2649
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 778
+Total number of records retrieved from searches: 16872
+Number of download events that retrieved data from the resource: 280
+Total number of records downloaded: 46846
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
