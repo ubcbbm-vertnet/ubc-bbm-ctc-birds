@@ -1,0 +1,149 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 666
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 8
+	Country: Germany ; Times: 3
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-07 ; Times: 7
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-13 ; Times: 3
+	Date: 2015-03-16 ; Times: 4
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 3
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Synthliboramphus" ; Times: 1
+	Query: "UBCBBM" ; Times: 2
+	Query: "Koriabo River mappable:1" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: "Poicephalus Uganda" ; Times: 3
+	Query: "wing type:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "buteo jamaicensis country:"mexico"" ; Times: 2
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "Piping Plover" ; Times: 1
+	Query: "sooty grouse" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 2
+	Query: "loggerhead shrike" ; Times: 1
+	Query: "brown-headed nuthatch" ; Times: 1
+	Query: "aves punctulatus" ; Times: 2
+	Query: "francolinus icterorhynchus year >= 1950 year <= 2015" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "ubcbbm" ; Times: 1
+	Query: "recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "leptocoma zeylonica" ; Times: 1
+	Query: "wing type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Butorides sundevalli" ; Times: 2
+	Query: ""Cowan Tetrapod Collection - Avian" wing" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "cinnyricinclus leucogaster" ; Times: 3
+	Query: "Pallid Harrier" ; Times: 1
+	Query: "Percnostola rufifrons" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 298 download events in this period)
+Total number of records downloaded: 520 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 483
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 13
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "Ara militaris" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 709
+Total number of records retrieved from searches: 13696
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 3169
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 819
+Total number of records retrieved from searches: 17538
+Number of download events that retrieved data from the resource: 310
+Total number of records downloaded: 47366
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
