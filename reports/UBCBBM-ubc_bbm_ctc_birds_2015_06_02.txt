@@ -1,0 +1,213 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 1604
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 20
+	Country: Germany ; Times: 3
+	Country: India ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 60
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 4
+	Date: 2015-05-06 ; Times: 13
+	Date: 2015-05-07 ; Times: 4
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 6
+	Date: 2015-05-12 ; Times: 4
+	Date: 2015-05-13 ; Times: 9
+	Date: 2015-05-14 ; Times: 5
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-17 ; Times: 2
+	Date: 2015-05-18 ; Times: 6
+	Date: 2015-05-19 ; Times: 14
+	Date: 2015-05-20 ; Times: 15
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 8
+	Date: 2015-05-28 ; Times: 7
+	Date: 2015-05-29 ; Times: 5
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "turdoides malcolmi" ; Times: 4
+	Query: "UBCBBM" ; Times: 9
+	Query: ""Rupornis magnirostris" type:specimen" ; Times: 1
+	Query: "Bubo scandiacus (tissue or specimen)" ; Times: 1
+	Query: "CAPERCAILLIE" ; Times: 1
+	Query: "adelie penguin type:specimen" ; Times: 2
+	Query: "Yellow Rail" ; Times: 1
+	Query: "Yellow-throated vireo" ; Times: 2
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 3
+	Query: "Bubo scandiacus type:specimen" ; Times: 1
+	Query: "butastur teesa" ; Times: 3
+	Query: "Spizella+pallida+Baja California" ; Times: 1
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 2
+	Query: "Pyrocephalus rubinus egg" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "woodpecker institutioncode:UBCBBM" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 2
+	Query: "dark-eyed junco institutioncode:UBCBBM (skin mount) year <= 2015" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1910" ; Times: 1
+	Query: ""salmon arm" institutioncode:ubcbbm" ; Times: 1
+	Query: "eurasian collared dove" ; Times: 1
+	Query: "Rallus aquaticus country:"india"" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 3
+	Query: "pigeon institutioncode:UBCBBM" ; Times: 4
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 1
+	Query: "caprimulgus nigrescens" ; Times: 5
+	Query: "aves Georgia United States Poecile carolinensis" ; Times: 1
+	Query: "Melospiza melodia Melospiza melodia institutioncode:UBCBBM (skin mount) year <= 2015" ; Times: 1
+	Query: "gracula religiosa" ; Times: 3
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1923" ; Times: 1
+	Query: "ukraine" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 1
+	Query: "ubcbbm" ; Times: 1
+	Query: "Contopus sordidulus saturatus" ; Times: 1
+	Query: "lanius collurio" ; Times: 2
+	Query: "Bewick wren arizona" ; Times: 1
+	Query: "white-crowned sparrow" ; Times: 1
+	Query: "perigrine" ; Times: 1
+	Query: "vireo flavoviridis" ; Times: 4
+	Query: "Spizella pallida Baja California" ; Times: 1
+	Query: "egg Pyrocephalus rubinus type:specimen" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 2
+	Query: "tachycineta albilinea" ; Times: 3
+	Query: "Sternula saundersi" ; Times: 1
+	Query: "black oystercatcher" ; Times: 1
+	Query: "aythya nyroca" ; Times: 2
+	Query: "scolopax rusticola" ; Times: 4
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 2
+	Query: "Ara militaris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 4
+	Query: "BAJA NORTHERN CARDINAL" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 1
+	Query: "Contopus sordidulus saturatus year <= 1899" ; Times: 1
+	Query: "Pyrocephalus rubinus type:specimen (egg)" ; Times: 1
+	Query: "Spizella pallida+Baja California" ; Times: 2
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "pseudibis papillosa" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "Rynchops niger cinerascens" ; Times: 1
+	Query: "cuculus canorus" ; Times: 1
+	Query: "Melospiza melodia inexspectata" ; Times: 2
+	Query: "caprimulgus mahrattensis" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "pterocles exustus" ; Times: 3
+	Query: "Psittacula" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 976 download events in this period)
+Total number of records downloaded: 6279 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2716
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 6
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 21
+	Date: 2015-05-19 ; Times: 31
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "minnesota egg" ; Times: 1
+	Query: "A.C. Buller" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: ""salmon arm" institutioncode:ubcbbm" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Rynchops niger cinerascens" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 829
+Total number of records retrieved from searches: 15300
+Number of download events that retrieved data from the resource: 172
+Total number of records downloaded: 9448
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 939
+Total number of records retrieved from searches: 19142
+Number of download events that retrieved data from the resource: 392
+Total number of records downloaded: 53645
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
