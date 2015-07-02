@@ -1,0 +1,264 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 831
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 12
+	Country: Costa Rica ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Romania ; Times: 4
+	Country: United States ; Times: 120
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-03 ; Times: 17
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-06 ; Times: 5
+	Date: 2015-06-07 ; Times: 16
+	Date: 2015-06-08 ; Times: 10
+	Date: 2015-06-09 ; Times: 5
+	Date: 2015-06-10 ; Times: 8
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-12 ; Times: 17
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 10
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-19 ; Times: 5
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-23 ; Times: 6
+	Date: 2015-06-24 ; Times: 4
+	Date: 2015-06-25 ; Times: 15
+	Date: 2015-06-26 ; Times: 5
+	Date: 2015-06-27 ; Times: 4
+	Date: 2015-06-28 ; Times: 8
+	Date: 2015-06-29 ; Times: 13
+	Date: 2015-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Zosterops japonicus type:specimen" ; Times: 2
+	Query: "aves Georgia United States Cardinalis cardinalis" ; Times: 2
+	Query: "stateprovince:"alaska" specificepithet:hyperboreus class:aves year >= 1966 year <= 1966" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 12
+	Query: "common eider skin" ; Times: 1
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "Vidua macroura" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:hyperboreus class:aves catalognumber:b013274 year >= 1966 year <= 1966" ; Times: 1
+	Query: "Kelp Gull" ; Times: 2
+	Query: "vireo bellii pusillus" ; Times: 1
+	Query: "eurasian capercaillie" ; Times: 1
+	Query: "aves Georgia United States Quiscalus major" ; Times: 2
+	Query: "pitta brachyura" ; Times: 16
+	Query: "rose-ringed parakeet" ; Times: 1
+	Query: "Catharus ustulatus phillipsi" ; Times: 1
+	Query: "urogallus institutioncode:UBCBBM" ; Times: 1
+	Query: "aythya fuligula" ; Times: 1
+	Query: "piping plover" ; Times: 1
+	Query: "cocos island birds country:"Costa Rica"" ; Times: 1
+	Query: "UBCBBM" ; Times: 3
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "strix mexico AND (occidentalis)" ; Times: 1
+	Query: "aves Georgia United States "dominica dominica"" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 1
+	Query: "numida" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 3
+	Query: "Phaethornis mexicanus" ; Times: 1
+	Query: "Melanerpes lewis Island" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "japanese white eye hawaii" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "capercaillie" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 1
+	Query: "francolinus levaillantii" ; Times: 1
+	Query: "aves Georgia United States Quiscalus quiscula" ; Times: 2
+	Query: "aythya nyroca" ; Times: 4
+	Query: "anas formosa" ; Times: 2
+	Query: "trogon citreolus" ; Times: 2
+	Query: "Campethera abingoni" ; Times: 1
+	Query: "Ramphocelus bresilius" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 4
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "Agapornis canus" ; Times: 1
+	Query: "Red-naped sapsucker type:specimen" ; Times: 1
+	Query: "campethera tullbergi type:specimen" ; Times: 2
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "aves Georgia United States Molothrus ater" ; Times: 1
+	Query: "aquila heliaca" ; Times: 2
+	Query: "aves Georgia United States Pipilo erythrophthalmus" ; Times: 1
+	Query: "aves Georgia United States Quiscalus major Brooks" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "Chlorophanes spiza brazil" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "florisuga" ; Times: 1
+	Query: "campethera notata type:specimen" ; Times: 1
+	Query: "tachycineta albilinea type:specimen" ; Times: 2
+	Query: "Vidua" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "socorro dove" ; Times: 4
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Iceland Gull" ; Times: 3
+	Query: "Merops albicollis" ; Times: 2
+	Query: "Acryllium vulturinum year >= 1990 year <= 2015" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 4
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "amandava amandava" ; Times: 1
+	Query: "Indian Skimmer" ; Times: 3
+	Query: "clapper rail" ; Times: 1
+	Query: "honeycreeper" ; Times: 1
+	Query: "cocos island birds" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 4
+	Query: "Merops bulocki" ; Times: 2
+	Query: "geospiza type:specimen AND (NOT MVZ) AND (NOT DMNS) AND (NOT UMMZ) AND (NOT LACM)" ; Times: 1
+	Query: "spruce grouse" ; Times: 2
+	Query: "mockingbird" ; Times: 1
+	Query: "Numida meleagris country:"ethiopia"" ; Times: 1
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "Paroaria dominicana" ; Times: 1
+	Query: "eremophila alpestris strigata" ; Times: 2
+	Query: "White-tipped Dove" ; Times: 2
+	Query: "aves Georgia United States Piranga rubra" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "florisuga mellivora" ; Times: 1
+	Query: "grey owl" ; Times: 4
+	Query: "aves Georgia United States Piranga rubra 19" ; Times: 1
+	Query: "aves Georgia United States Passerina caerulea" ; Times: 1
+	Query: "hemithraupis ruficapilla brazil" ; Times: 1
+	Query: "Dendrocopos leucopterus type:specimen" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "stateprovince:"Alberta" (waterton lakes)" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Jynx" ; Times: 1
+	Query: "Lepidothrix suavissima" ; Times: 1
+	Query: "japanese white eye" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1524 download events in this period)
+Total number of records downloaded: 1250 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 995
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: Denmark ; Times: 29
+	Country: France ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 6
+	Date: 2015-06-22 ; Times: 3
+	Date: 2015-06-25 ; Times: 6
+	Date: 2015-06-27 ; Times: 4
+	Date: 2015-06-29 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "pelagic cormorant type:specimen" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "least auklet type:specimen" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "Phaethornis mexicanus" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Damophila julie" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Chlorostilbon assimilis" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "amazilia amabilis" ; Times: 1
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "cocos island birds country:"Costa Rica"" ; Times: 2
+	Query: "guatemala" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 3
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Orthorhyncus cristatus" ; Times: 2
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Elvira chionura" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 992
+Total number of records retrieved from searches: 16131
+Number of download events that retrieved data from the resource: 237
+Total number of records downloaded: 10698
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1102
+Total number of records retrieved from searches: 19973
+Number of download events that retrieved data from the resource: 457
+Total number of records downloaded: 54895
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
