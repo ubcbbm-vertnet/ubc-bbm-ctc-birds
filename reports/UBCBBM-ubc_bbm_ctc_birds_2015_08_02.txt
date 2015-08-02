@@ -1,0 +1,200 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 1312
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 37
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 9
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Switzerland ; Times: 9
+	Country: United Kingdom ; Times: 23
+	Country: United States ; Times: 60
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 9
+	Date: 2015-07-02 ; Times: 7
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 5
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 8
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-20 ; Times: 5
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 8
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-25 ; Times: 12
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 12
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-29 ; Times: 28
+	Date: 2015-07-30 ; Times: 14
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tauraco tissue:1" ; Times: 7
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "broad-tailed hummingbird" ; Times: 1
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 3
+	Query: "CAPERCAILLIE" ; Times: 3
+	Query: "Ploceus cucullatus" ; Times: 1
+	Query: "pinguinus" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 3
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "florisuga fusca" ; Times: 20
+	Query: "dendrocopos medius" ; Times: 9
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH)" ; Times: 1
+	Query: "Pterodroma sandwichensis type:specimen" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 4
+	Query: "skeleton Phoebastria immutabilis" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 3
+	Query: "Branta hutchinsii type:specimen" ; Times: 3
+	Query: "cypseloides niger" ; Times: 4
+	Query: "Syrmaticus ellioti type:specimen" ; Times: 1
+	Query: "institutioncode:ubcbbm year >= 1930 year <= 1930" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "aepyornis" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNMH NOT CUMV)" ; Times: 1
+	Query: "caspian tern egg" ; Times: 1
+	Query: "pin-tailed whydah" ; Times: 1
+	Query: "passenger pigeon" ; Times: 3
+	Query: "Montezuma Quail" ; Times: 1
+	Query: "calliope hummingbird" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "western tanager" ; Times: 1
+	Query: "Brachyramphus egg" ; Times: 2
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Pseudibis" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM)" ; Times: 1
+	Query: "specificepithet:bulocki genus:merops year >= 1910" ; Times: 1
+	Query: "Chimney Swift" ; Times: 1
+	Query: "egg "buteo lagopus"" ; Times: 2
+	Query: "sterna dougallii" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "aythya nyroca" ; Times: 3
+	Query: "greater yellowlegs type:specimen" ; Times: 3
+	Query: "Strix aluco" ; Times: 1
+	Query: "Sporophila americana" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ)" ; Times: 1
+	Query: "specificepithet:inornata genus:Pinaroloxias" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH)" ; Times: 1
+	Query: "cannabina type:specimen (egg)" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM)" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDMNH NOT CUMV)" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 2
+	Query: "Emberizoides herbicola" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "house sparrow egg" ; Times: 1
+	Query: "institutioncode:ubcbbm Psittacidae" ; Times: 6
+	Query: "Blue Tit" ; Times: 2
+	Query: "UBCBBM" ; Times: 1
+	Query: "sporophila americana" ; Times: 8
+	Query: "institutioncode:ubcbbm" ; Times: 2
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1084 download events in this period)
+Total number of records downloaded: 2773 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2299
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-14 ; Times: 4
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 2
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "florisuga fusca" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "specificepithet:macroura genus:Vidua mappable:1" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "specificepithet:inornata genus:Pinaroloxias" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "specificepithet:conirostris genus:Geospiza" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "Campylorhynchus rufinucha" ; Times: 1
+	Query: "sporophila americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1135
+Total number of records retrieved from searches: 17443
+Number of download events that retrieved data from the resource: 275
+Total number of records downloaded: 13471
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1245
+Total number of records retrieved from searches: 21285
+Number of download events that retrieved data from the resource: 495
+Total number of records downloaded: 57668
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
