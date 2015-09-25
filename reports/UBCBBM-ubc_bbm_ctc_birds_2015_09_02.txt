@@ -1,0 +1,229 @@
+Report for Institution Code UBCBBM, Resource CTC
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 512
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 6
+	Country: France ; Times: 3
+	Country: Germany ; Times: 2
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 94
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 4
+	Date: 2015-08-03 ; Times: 7
+	Date: 2015-08-04 ; Times: 14
+	Date: 2015-08-05 ; Times: 4
+	Date: 2015-08-06 ; Times: 7
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-08 ; Times: 3
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-11 ; Times: 5
+	Date: 2015-08-12 ; Times: 6
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-16 ; Times: 1
+	Date: 2015-08-17 ; Times: 7
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-22 ; Times: 5
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 5
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 12
+	Date: 2015-08-29 ; Times: 23
+	Date: 2015-08-30 ; Times: 7
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo muticus" ; Times: 2
+	Query: "snow owl" ; Times: 2
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 1
+	Query: "common greenshank" ; Times: 1
+	Query: "specificepithet:major genus:Pachyramphus" ; Times: 1
+	Query: "Icterus melanopsis" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico" specificepithet:cinereum genus:Toxostoma" ; Times: 4
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Eurasian Blue Tit" ; Times: 1
+	Query: "Psittacidae pertinax" ; Times: 2
+	Query: "Horned Lark" ; Times: 1
+	Query: "Chiffchaff" ; Times: 3
+	Query: "pelecanus (skel OR skeleton)" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 32
+	Query: "Emberizoides herbicola" ; Times: 1
+	Query: "euplectes albonotatus" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: ""salmon arm" institutioncode:ubcbbm" ; Times: 2
+	Query: "Sterna forsteri stateprovince:"California"" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 4
+	Query: "arquata" ; Times: 1
+	Query: "specificepithet:militaris genus:Sturnella" ; Times: 1
+	Query: "spotted owl" ; Times: 3
+	Query: ""Monticola rupestris"" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "specificepithet:bellicosa genus:Sturnella" ; Times: 1
+	Query: "insularis type:specimen genus:pachyramphus class:aves" ; Times: 1
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Megaceryle (skel OR skeleton)" ; Times: 2
+	Query: "copsychus malabaricus" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1940 year <= 1960" ; Times: 1
+	Query: "bonasa umbellus type:specimen" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "yellow rail" ; Times: 1
+	Query: "acrocephalus bistrigiceps" ; Times: 1
+	Query: "northern pygmy-owl" ; Times: 4
+	Query: "Coccyzus minor type:specimen" ; Times: 4
+	Query: "Callipepla californica Mexico" ; Times: 2
+	Query: "snowy owl tissue:1" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "genus:Macroagelaius" ; Times: 1
+	Query: "Turaco (skel OR skeleton)" ; Times: 1
+	Query: "oenanthe deserti" ; Times: 2
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "Bubo scandiacus tissue:1" ; Times: 1
+	Query: ""Picoides dorsalis"" ; Times: 4
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1920 year <= 1940" ; Times: 1
+	Query: "phoebastria albatrus type:specimen" ; Times: 1
+	Query: "Buff-breasted Sandpiper" ; Times: 1
+	Query: "genus:Herpetotheres" ; Times: 1
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 4
+	Query: "gallus sonneratii" ; Times: 2
+	Query: "ornithion inerme" ; Times: 2
+	Query: "coturnix coturnix" ; Times: 2
+	Query: ""Notre Dame"" ; Times: 1
+	Query: "Musophagidae (skel OR skeleton)" ; Times: 1
+	Query: "FLORISUGA FUSCa" ; Times: 1
+	Query: "catalognumber:B005498 institutioncode:ubcbbm" ; Times: 1
+	Query: "ombirds" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1138 download events in this period)
+Total number of records downloaded: 1212 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1146
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 6
+	Date: 2015-08-05 ; Times: 10
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 5
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 10
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 5
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Podilymbus podiceps type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Oxyura jamaicensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Icterus melanopsis" ; Times: 1
+	Query: ""eclectus"" ; Times: 2
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico" specificepithet:cinereum genus:Toxostoma" ; Times: 2
+	Query: "amazona" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "Arremon" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Butorides virescens type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Campylorhynchus rufinucha rufinucha country:"Mexico"" ; Times: 1
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "Contopus sordidulus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1920 year <= 1940" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Apteryx australis" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "paradisaeidae" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 130
+Total number of records retrieved from searches: 512
+Number of download events that retrieved data from the resource: 62
+Total number of records downloaded: 1212
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 130
+Total number of records retrieved from searches: 512
+Number of download events that retrieved data from the resource: 62
+Total number of records downloaded: 1212
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
