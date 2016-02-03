@@ -1,0 +1,183 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 1475
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 36
+	Country: United States ; Times: 40
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 10
+	Date: 2015-12-08 ; Times: 5
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 5
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 8
+	Date: 2015-12-21 ; Times: 16
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-22 ; Times: 3
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-31 ; Times: 8
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 6
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-18 ; Times: 4
+	Date: 2015-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccothraustes egg" ; Times: 1
+	Query: "UBCBBM" ; Times: 1
+	Query: "saw-whet owl BC" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "roseate tern" ; Times: 1
+	Query: "Long-billed Curlew" ; Times: 3
+	Query: "red-naped sapsucker type:specimen" ; Times: 1
+	Query: "Selasphorus calliope type:specimen" ; Times: 2
+	Query: "nuttall woodpecker" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "gallus sonneratii india" ; Times: 2
+	Query: "tanager" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 2
+	Query: "gyps fulvus" ; Times: 1
+	Query: "perdix egg" ; Times: 1
+	Query: "scarlet macaw" ; Times: 1
+	Query: "Ubcbbm" ; Times: 3
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Zonotrichia leucophrys year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "picta institutioncode:UBCBBM" ; Times: 2
+	Query: "&#34;A C Brooks&#34;" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "Tufted Titmouse egg" ; Times: 1
+	Query: "Owl BC" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "specificepithet:bicalcaratum family:Phasianidae preparations:skin" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "american Robin BC" ; Times: 1
+	Query: "Pheucticus melanocephalus year &gt;= 1982 year &lt;= 1982" ; Times: 1
+	Query: "Lanius ludovicianus (Virginia)" ; Times: 1
+	Query: "Pterodroma UBCBBM" ; Times: 3
+	Query: "(ombirds)" ; Times: 1
+	Query: "Selasphorus calliope type:specimen tissue:1" ; Times: 1
+	Query: "ubcbbm" ; Times: 1
+	Query: "Spotted Owl BC" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Rusty Blackbird BC" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 2
+	Query: "California Gull" ; Times: 2
+	Query: "Larimer Anas" ; Times: 1
+	Query: "Skylark BC" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "ubc" ; Times: 1
+	Query: "type:specimen genus:Brotogeris order:Psittaciformes (chrysoptera)" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (fuscus)" ; Times: 1
+	Query: "Pteroglossus beauharnaesii preparations:skin" ; Times: 1
+	Query: "rynchops albicollis" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 2
+	Query: "white-tailed ptarmigan" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "Red knot BC" ; Times: 1
+	Query: "SPHENISCUS HUMBOLDTI" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 3
+	Query: "Sturnella magna" ; Times: 1
+	Query: "class:aves locality:mojave desert mappable:1" ; Times: 1
+	Query: "red kite" ; Times: 4
+	Query: "Black Swift BC" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 2
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (krameri)" ; Times: 1
+	Query: "Phalaropus lobatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 889 download events in this period)
+Total number of records downloaded: 696
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 6
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Selasphorus calliope type:specimen" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "scarlet macaw" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Selasphorus calliope type:specimen tissue:1" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "alauda" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "european starling" ; Times: 2
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+
+
+End of report.
