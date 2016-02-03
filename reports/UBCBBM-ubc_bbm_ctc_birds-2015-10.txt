@@ -1,0 +1,214 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 2846
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 45
+	Country: United States ; Times: 89
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 6
+	Country: Germany ; Times: 11
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 8
+	Date: 2015-10-15 ; Times: 10
+	Date: 2015-10-12 ; Times: 7
+	Date: 2015-10-13 ; Times: 10
+	Date: 2015-10-10 ; Times: 11
+	Date: 2015-10-11 ; Times: 18
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 9
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 7
+	Date: 2015-10-24 ; Times: 17
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 5
+	Date: 2015-10-07 ; Times: 7
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 8
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "kiwi" ; Times: 1
+	Query: "UBCBBM" ; Times: 5
+	Query: "Seiurus aurocapilla type:specimen (Canada)" ; Times: 1
+	Query: "francolinus icterorhynchus" ; Times: 7
+	Query: "Langara Island" ; Times: 7
+	Query: "Sylvia borin institutioncode:UBCBBM" ; Times: 1
+	Query: "North Island British Columbia 1930" ; Times: 5
+	Query: "North Island British Columbia 1931" ; Times: 2
+	Query: "american wigeon" ; Times: 1
+	Query: "Mediterranean gull" ; Times: 1
+	Query: "Zenaida macroura clarionensis" ; Times: 1
+	Query: "xiphidiopicus percussus" ; Times: 2
+	Query: "ptilopachus petrosus" ; Times: 3
+	Query: "Seiurus aurocapilla (Canada)" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "parrotfinch" ; Times: 2
+	Query: "francolinus swainsonii" ; Times: 1
+	Query: "lava gull" ; Times: 2
+	Query: "Picus viridis institutioncode:UBCBBM" ; Times: 1
+	Query: "ombirds institutioncode:UBCBBM" ; Times: 1
+	Query: "Cox Island British Columbia" ; Times: 3
+	Query: "Ortalis wagleri" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 4
+	Query: "Neophron" ; Times: 5
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "Graham Island British Columbia 1940" ; Times: 1
+	Query: "Swallow-tailed Gull" ; Times: 5
+	Query: "Mew Gull" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "CTC 248" ; Times: 2
+	Query: "paradisaea apoda" ; Times: 2
+	Query: "Synthliboramphus hypoleucus California" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 4
+	Query: "piping plover" ; Times: 2
+	Query: "UBCBBM neophron" ; Times: 2
+	Query: "tree sparrow" ; Times: 1
+	Query: "stellula calliope tissue:1" ; Times: 1
+	Query: "Langara UBCBBM CTC" ; Times: 2
+	Query: "UBCBBM Neophron" ; Times: 1
+	Query: "Chroicocephalus (skel OR skeleton) sex:female" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "Langara UBCBBM" ; Times: 2
+	Query: "genus:neophron institutioncode:UBCBBM" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 2
+	Query: "Iceland Gull" ; Times: 6
+	Query: "ubcbbm" ; Times: 1
+	Query: "Seiurus aurocapilla type:specimen country:&#34;Canada&#34; (Canada)" ; Times: 1
+	Query: "pyrrhula pyrrhula institutioncode:UBCBBM" ; Times: 1
+	Query: "Selasphorus calliope tissue:1" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "Zosterops palpebrosus" ; Times: 2
+	Query: "yellow rail" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 2
+	Query: "Acryllium vulturinum year &gt;= 1960" ; Times: 1
+	Query: "Falco tinnunculus institutioncode:UBCBBM" ; Times: 1
+	Query: "francolinus levaillantoides" ; Times: 2
+	Query: "accipiter gentilis institutioncode:UBCBBM" ; Times: 1
+	Query: "parus major" ; Times: 1
+	Query: "phoebastria (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Poecile (skel OR skeleton) sex:female" ; Times: 1
+	Query: "R. Rausch institutioncode:UBCBBM" ; Times: 1
+	Query: "perdix dauurica" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "Lucy Island British Columbia" ; Times: 1
+	Query: "Swallow-tailed Kite" ; Times: 1
+	Query: "fringilla coelebs institutioncode:UBCBBM" ; Times: 1
+	Query: "francolinus levaillantii" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "Numida meleagris year &gt;= 1920" ; Times: 1
+	Query: "victoria regia" ; Times: 1
+	Query: "specificepithet:kirtlandii stateprovince:&#34;michigan&#34; AND (NOT UMMZ) year &gt;= 1900 year &lt;= 1943" ; Times: 1
+	Query: "JB Foster 1960" ; Times: 3
+	Query: "great auk" ; Times: 3
+	Query: "ovenbird (canada)" ; Times: 1
+	Query: "JB Foster 1961" ; Times: 2
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "(vesper) mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 8
+	Query: "Petrel Island British Columbia" ; Times: 3
+	Query: "white-tailed hawk" ; Times: 2
+	Query: "Nestor meridionalis" ; Times: 8
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "Neophron type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 823 download events in this period)
+Total number of records downloaded: 20236
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "JB Foster" ; Times: 1
+	Query: "UBCBBM" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "Ortalis wagleri" ; Times: 1
+	Query: "american tree sparrow" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "motacilla citreola" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Cox Island British Columbia" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 2
+	Query: "sora" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Campephilus rubricollis mappable:1" ; Times: 1
+	Query: "(vesper) mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 1
+
+
+End of report.
