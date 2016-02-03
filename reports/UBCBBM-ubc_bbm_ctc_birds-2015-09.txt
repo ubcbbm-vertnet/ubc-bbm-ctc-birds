@@ -1,0 +1,246 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 5540
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Turkey ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: United States ; Times: 117
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-10 ; Times: 9
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 8
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-19 ; Times: 7
+	Date: 2015-09-30 ; Times: 16
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-29 ; Times: 10
+	Date: 2015-09-07 ; Times: 4
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 4
+	Date: 2015-09-03 ; Times: 9
+	Date: 2015-09-28 ; Times: 3
+	Date: 2015-09-01 ; Times: 12
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 9
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 11
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Phalcoboenus (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.149505705))&lt;15000" ; Times: 1
+	Query: "Japanese White-eye" ; Times: 5
+	Query: "acrocephalus arundinaceus" ; Times: 6
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "Otus brucei" ; Times: 1
+	Query: "Aves Isla Socorro" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 3
+	Query: "uria aalge type:specimen institutioncode:UBCBBM (wing)" ; Times: 1
+	Query: "aethia pusilla type:specimen institutioncode:UBCBBM (skin)" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "Aratinga holochlora" ; Times: 7
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "UBCBBM" ; Times: 2
+	Query: "musophagidae tissue:1" ; Times: 1
+	Query: "strix nebulosa" ; Times: 2
+	Query: "distance(location,geopoint(21.2802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "phylloscopus collybita" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 1
+	Query: "polyplectron bicalcaratum" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "insularis type:specimen genus:Pachyramphus" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "type:specimen (tinamou AND egg)" ; Times: 1
+	Query: "genus:icterus (melanopsis) AND (NOT film)" ; Times: 1
+	Query: "genus:icterus (melanopsis) AND (NOT film) year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 2
+	Query: "Aratinga Isla Socorro" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "snail kite" ; Times: 1
+	Query: "lagopus leucura" ; Times: 3
+	Query: "blue pitta" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "acrocephalus palustris" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:UBCBBM (skin)" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Aptenodytes (skel OR skeleton)" ; Times: 1
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "insularis type:specimen genus:pachyramphus" ; Times: 1
+	Query: "florisuga fusca" ; Times: 2
+	Query: "uria lomvia type:specimen institutioncode:UBCBBM (skin)" ; Times: 1
+	Query: "Neophron" ; Times: 1
+	Query: "blue footed" ; Times: 1
+	Query: "turdoides earlei" ; Times: 1
+	Query: "flammulated owl" ; Times: 3
+	Query: "caracara (skel OR skeleton)" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 3
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "specificepithet:ornatus genus:calcarius year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "GUYANA Sakesphorus canadensis" ; Times: 1
+	Query: "black bear institutioncode:UBCBBM" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "Herring Gull" ; Times: 1
+	Query: "rissa tridactyla type:specimen institutioncode:UBCBBM (skin)" ; Times: 1
+	Query: "recordedby:myres year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 2
+	Query: "burrowing owl" ; Times: 2
+	Query: "pavo muticus" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "type:specimen (skeleton) institutioncode:UBCBBM" ; Times: 5
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-106.649505705))&lt;15000" ; Times: 1
+	Query: "Tringa incana" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "genus:icterus (melanopsis)" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Red-vented Bulbul" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "distance(location,geopoint(21.6802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.349505705))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1045 download events in this period)
+Total number of records downloaded: 22307
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 30
+	Country: Colombia ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-16 ; Times: 8
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-22 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "UBCBBM" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+
+
+End of report.
