@@ -1,0 +1,147 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 1590
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 29
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Denmark ; Times: 18
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 20
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 5
+	Date: 2016-01-26 ; Times: 13
+	Date: 2016-01-01 ; Times: 4
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-29 ; Times: 5
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-18 ; Times: 5
+	Date: 2016-01-07 ; Times: 4
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-27 ; Times: 5
+	Date: 2016-01-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "british columbia (&#34;Strix occidentalis&#34;)" ; Times: 2
+	Query: "pine siskin (egg) institutioncode:UBCBBM" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "avian type:specimen stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 1
+	Query: "boreal owl AK institutioncode:UBCBBM" ; Times: 2
+	Query: "(Anseriformes) institutioncode:UBCBBM" ; Times: 2
+	Query: "pine siskin institutioncode:UBCBBM" ; Times: 1
+	Query: "Passeriformes type:specimen stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 1
+	Query: "&#34;Passerina versicolor&#34; type:specimen" ; Times: 1
+	Query: "Bubo scandiacus wing" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "egg Falcipennis" ; Times: 2
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "specificepithet:leucocephalus genus:Haliaeetus preparations:round OR skin year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "british columbia (&#34;strix occidentalis&#34;)" ; Times: 1
+	Query: "class:aves type:specimen stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 1
+	Query: "boreal owl institutioncode:UBCBBM" ; Times: 1
+	Query: "long eared owl" ; Times: 1
+	Query: "canadensis osgoodi" ; Times: 1
+	Query: "type:specimen genus:Aratinga (brevipes)" ; Times: 1
+	Query: "leucistic" ; Times: 1
+	Query: "Alberta Canada aves 2005-2015" ; Times: 1
+	Query: "ubcbbm" ; Times: 2
+	Query: "Falco naumanni" ; Times: 1
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 7
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "specificepithet:opisthomelas genus:puffinus" ; Times: 1
+	Query: "Least Storm-Petrel" ; Times: 1
+	Query: "Spotted Owl" ; Times: 1
+	Query: "impennis stateprovince:&#34;newfoundland&#34;" ; Times: 2
+	Query: "eggs Falcipennis" ; Times: 1
+	Query: "Ixoreus naevius month &gt;= 6 month &lt;= 6" ; Times: 2
+	Query: "icterus pectoralis" ; Times: 1
+	Query: "Boreal Owl" ; Times: 1
+	Query: "aves type:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Ixoreus naevius locality:Graham Island" ; Times: 1
+	Query: "British Columbia type:specimen (&#34;strix occidentalis&#34;)" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; year &gt;= 1927 year &lt;= 1927" ; Times: 1
+	Query: "pseudibis" ; Times: 1
+	Query: "spotted owl" ; Times: 4
+	Query: "skin genus: Gubernatrix sex:male" ; Times: 1
+	Query: "(Ardeidae) institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "Falcipennis canadensis osgoodi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 507 download events in this period)
+Total number of records downloaded: 589
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-01 ; Times: 3
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-25 ; Times: 4
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "himatione" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "skin genus: Mitrospingus sex:male" ; Times: 1
+	Query: "class:aves type:specimen stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 2
+	Query: "aechmophorus" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+
+End of report.
