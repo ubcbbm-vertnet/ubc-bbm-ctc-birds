@@ -1,0 +1,107 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 450
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 10
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-01 ; Times: 4
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Caprimulgus tristigma&#34;" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "Falco sparverius (Alaska OR Yukon ) month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Limnodromus griseus (British Columbia)" ; Times: 2
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 2
+	Query: "haematopus bachmani (British Columbia)" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 2
+	Query: "WILLETT CATALINA" ; Times: 1
+	Query: "xema sabini (British Columbia)" ; Times: 1
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Tringa solitaria (British Columbia)" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "vermilion flycatcher" ; Times: 3
+	Query: "&#34;I.McT. Cowan&#34;" ; Times: 2
+	Query: "Falco sparverius month &gt;= 4 month &lt;= 8 institutioncode:UBCBBM" ; Times: 1
+	Query: "Limnodromus scolopaceus (British Columbia)" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 230 download events in this period)
+Total number of records downloaded: 5120
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 47
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.
