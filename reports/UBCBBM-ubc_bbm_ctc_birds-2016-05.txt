@@ -1,0 +1,103 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 364
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 2
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 12
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-20 ; Times: 5
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "grus testis" ; Times: 5
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "scotland 1921 egg" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "fieldfare" ; Times: 3
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "crane testis" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "(emerald) institutioncode:UBCBBM" ; Times: 2
+	Query: "falco sparverius (british columbia)" ; Times: 1
+	Query: "Eremophila alpestris AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "Treron Tanzania" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 2
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "Black-headed Bunting" ; Times: 2
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 327 download events in this period)
+Total number of records downloaded: 945
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: China ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
