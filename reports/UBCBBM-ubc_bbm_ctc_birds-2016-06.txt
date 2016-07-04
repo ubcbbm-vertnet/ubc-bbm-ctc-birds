@@ -1,0 +1,228 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 208
+Number of records retrieved in searches: 1585
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Portugal ; Times: 43
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 3
+	Country: United States ; Times: 98
+	Country: Germany ; Times: 1
+	Country: South Korea ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 12
+	Date: 2016-06-23 ; Times: 17
+	Date: 2016-06-22 ; Times: 21
+	Date: 2016-06-21 ; Times: 5
+	Date: 2016-06-20 ; Times: 19
+	Date: 2016-06-16 ; Times: 24
+	Date: 2016-06-04 ; Times: 7
+	Date: 2016-06-14 ; Times: 40
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-02 ; Times: 10
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-24 ; Times: 8
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 5
+	Date: 2016-06-07 ; Times: 13
+	Date: 2016-06-19 ; Times: 3
+	Date: 2016-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "imperial woodpecker" ; Times: 1
+	Query: "Buphagidae" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;United States&#34;" ; Times: 1
+	Query: "Mimus macdonaldi" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 5
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 4
+	Query: "sitta canadensis mexico" ; Times: 2
+	Query: "oxpecker" ; Times: 6
+	Query: "clappertoni" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "lanius ludovicianus baja california" ; Times: 1
+	Query: "Thalassarche carteri" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "Contopus sordidulus Alberta" ; Times: 2
+	Query: "Thraupis melanoptera" ; Times: 2
+	Query: "(&#34;Oak Titmouse&#34; or &#34;Baeolophus inornatus&#34;)" ; Times: 1
+	Query: "Beaty specimens" ; Times: 5
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Isla Coronados Mexico AND 1916" ; Times: 1
+	Query: "Isla Coronados Mexico AND 1914" ; Times: 2
+	Query: "phaethornis mexicanus" ; Times: 2
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "magnolia warbler" ; Times: 2
+	Query: "egg 1920 ca" ; Times: 1
+	Query: "dendroica magnolia country:&#34;canada&#34; AND (NOT Illinois NOT MVZ) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 3
+	Query: "Chen canagica (British Columbia)" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Isla Natividad Mexico AND 1932" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34;" ; Times: 2
+	Query: "ptilopachus petrosus" ; Times: 1
+	Query: "dendroica magnolia stateprovince:&#34;british columbia&#34; country:&#34;canada&#34; AND (NOT Illinois NOT MVZ) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "egg san joaquin CA 1925" ; Times: 1
+	Query: "dendroica magnolia stateprovince:&#34;british columbia&#34; country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6 institutioncode:UBCBBM" ; Times: 1
+	Query: "Cowan Tetrapod Collection" ; Times: 1
+	Query: "specificepithet:aalge genus:Uria class:aves continent:Europe preparations:egg" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "Ptyonoprogne obsoleta" ; Times: 3
+	Query: "Mimus graysoni" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "Bubo virginianus AND Island" ; Times: 1
+	Query: "type:specimen class:aves recordedby:grant" ; Times: 2
+	Query: "BC Canada" ; Times: 2
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "Fratercula cirrhata British Columbia" ; Times: 2
+	Query: "Piranga ludoviciana AND Island" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus continent:North America" ; Times: 1
+	Query: "acorn woodpecker" ; Times: 4
+	Query: "Pluvialis AND Island" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "Cowan Tetrapod" ; Times: 1
+	Query: "dendroica magnolia stateprovince:&#34;alberta&#34; country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "&#34;megascops kennicottii&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 2
+	Query: "francolinus icterorhynchus" ; Times: 1
+	Query: "Rallus limicola AND Island" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "type:specimen genus:Phoenicopterus year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Isla Natividad Mexico" ; Times: 1
+	Query: "Fulica americana AND Island" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 1
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "(&#34;Oak Titmouse&#34; or &#34;Baeolophus inornatus&#34;) mappable:1" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 2
+	Query: "cyanistes" ; Times: 2
+	Query: "oak titmouse" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "corvus corax institutioncode:UBCBBM" ; Times: 1
+	Query: "pterodroma sandwichensis skeleton" ; Times: 1
+	Query: "pterodroma sandwichensis" ; Times: 3
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "Dendroica magnolia stateprovince:&#34;Manitoba&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "american redstart" ; Times: 1
+	Query: "strix aluco" ; Times: 3
+	Query: "specificepithet:corax genus:corvus year &gt;= 1800 year &lt;= 1940 institutioncode:UBCBBM" ; Times: 1
+	Query: "hedydipna type:specimen" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "diuca" ; Times: 2
+	Query: "egg duncan" ; Times: 1
+	Query: "dendroica magnolia stateprovince:&#34;british columbia&#34; country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 3
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34; month &gt;= 6 month &lt;= 7" ; Times: 4
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 2
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "cyanistes caeruleus" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "egg 1924 england" ; Times: 1
+	Query: "basileuterus culicivorus" ; Times: 12
+	Query: "dendroica magnolia stateprovince:&#34;British columbia&#34; country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "(Oceanodroma Guiguet) institutioncode:UBCBBM" ; Times: 1
+	Query: "pterodroma sandwichensis (skel OR skeleton )" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "(Oceanodroma) institutioncode:UBCBBM" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "white-tailed ptarmigan year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "anas cyanoptera" ; Times: 1
+	Query: "&#34;salmon arm&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "great gray owl" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1052 download events in this period)
+Total number of records downloaded: 474
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "microtus oregoni" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "lanius ludovicianus baja california" ; Times: 2
+	Query: "Thraupis melanoptera" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "magnolia warbler" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+
+
+End of report.
