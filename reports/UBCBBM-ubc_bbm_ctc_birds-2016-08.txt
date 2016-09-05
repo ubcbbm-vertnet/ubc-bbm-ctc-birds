@@ -1,0 +1,162 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 758
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 19
+	Country: Ukraine ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 65
+	Country: Spain ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 13
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 10
+	Date: 2016-08-16 ; Times: 12
+	Date: 2016-08-17 ; Times: 3
+	Date: 2016-08-25 ; Times: 12
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 4
+	Date: 2016-08-23 ; Times: 6
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-18 ; Times: 6
+	Date: 2016-08-30 ; Times: 7
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "egg orkney islands" ; Times: 1
+	Query: "Turnix sylvaticus sylvaticus" ; Times: 1
+	Query: "granatellus venustus" ; Times: 3
+	Query: "elf" ; Times: 5
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "egg brandenburg germany" ; Times: 1
+	Query: "egg ontario 1888" ; Times: 1
+	Query: "egg cumberland england" ; Times: 1
+	Query: "Long-tailed Jaeger type:specimen" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Aepyornis" ; Times: 2
+	Query: "chaetocercus heliodor" ; Times: 1
+	Query: "Catharus aurantiirostris" ; Times: 4
+	Query: "agelaius humeralis" ; Times: 2
+	Query: "Celeus flavus" ; Times: 1
+	Query: "egg dates" ; Times: 1
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "laysan albatross" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 1
+	Query: "Anser brachyrhynchus" ; Times: 2
+	Query: "Coracias caudatus" ; Times: 1
+	Query: "institutioncode:ubcbbm" ; Times: 2
+	Query: "gracula religiosa" ; Times: 2
+	Query: "american woodcock" ; Times: 1
+	Query: "passenger pigeon" ; Times: 9
+	Query: "pinaroloxias" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 3
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 8
+	Query: "egg lake manitoba" ; Times: 2
+	Query: "(Anthus) institutioncode:UBCBBM" ; Times: 2
+	Query: "phaethornis mexicanus" ; Times: 5
+	Query: "Merops albicollis" ; Times: 4
+	Query: "arctic tern" ; Times: 1
+	Query: "(Corvus corax) institutioncode:UBCBBM" ; Times: 1
+	Query: "tauraco persa tissue:1" ; Times: 1
+	Query: "pitta brachyura" ; Times: 4
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "&#34;salmon arm&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "type:specimen (california quail) institutioncode:UBCBBM" ; Times: 1
+	Query: "cypseloides niger" ; Times: 1
+	Query: "king eider institutioncode:UBCBBM" ; Times: 1
+	Query: "Chroicocephalus novaehollandiae" ; Times: 2
+	Query: "(Tympanuchus) institutioncode:UBCBBM" ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "agelaius humeralis type:specimen sex:male preparations:skin" ; Times: 1
+	Query: "agelaius humeralis sex:male" ; Times: 1
+	Query: "Merops nubicus" ; Times: 2
+	Query: "clamator jacobinus india" ; Times: 1
+	Query: "egg scotland 1917" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 924 download events in this period)
+Total number of records downloaded: 1459
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Quail Spring" ; Times: 1
+	Query: "pinaroloxias" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Picoides tridactylus year &gt;= 1980" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+
+
+End of report.
