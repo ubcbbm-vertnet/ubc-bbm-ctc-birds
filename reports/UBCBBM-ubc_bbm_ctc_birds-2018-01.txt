@@ -1,0 +1,361 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 291
+Number of records retrieved in searches: 2637
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 31
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 168
+	Country: India ; Times: 4
+	Country: France ; Times: 3
+	Country: United States ; Times: 70
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 8
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 6
+	Date: 2018-01-12 ; Times: 6
+	Date: 2018-01-15 ; Times: 44
+	Date: 2018-01-17 ; Times: 5
+	Date: 2018-01-16 ; Times: 130
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 8
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 6
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-25 ; Times: 10
+	Date: 2018-01-26 ; Times: 9
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-21 ; Times: 3
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-07 ; Times: 8
+	Date: 2018-01-22 ; Times: 8
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-23 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "Pheucticus chrysopeplus" ; Times: 1
+	Query: "Thamnophilus doliatus" ; Times: 1
+	Query: "Setophaga fusca" ; Times: 1
+	Query: "Tringa solitaria" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 4
+	Query: "Pachyramphus major" ; Times: 1
+	Query: "Basileuterus culicivorus" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Aythya collaris" ; Times: 1
+	Query: "Myioborus pictus" ; Times: 1
+	Query: "genus:Sphyrapicus institutioncode:UBCBBM" ; Times: 2
+	Query: "Egretta thula" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Catharus aurantiirostris" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "genus:Corvus Corax lifestage:adult sex:male haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "Habia rubica" ; Times: 1
+	Query: "Contopus pertinax" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Tyrannus melancholicus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus institutioncode:UBCBBM" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "Spinus notatus" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Patagioenas flavirostris" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 1
+	Query: "Todirostrum cinereum" ; Times: 1
+	Query: "Lophornis institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:tullbergi genus:Campethera" ; Times: 6
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Cardellina rubrifrons" ; Times: 1
+	Query: "genus:Corvus Corax lifestage:adult sex:male haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Patagioenas speciosa" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "Dysithamnus mentalis" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 1
+	Query: "red backed shrike" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "vntype:specimen AND (Aves) institutioncode:UBCBBM hastissue:1" ; Times: 2
+	Query: "Greater Spotted Eagle" ; Times: 3
+	Query: "Mionectes oleagineus" ; Times: 1
+	Query: "subvinacea" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "UBCBBM" ; Times: 7
+	Query: "Campephilus guatemalensis" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Chaetura vauxi" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "vntype:specimen specificepithet:hudsonicus genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "Myiopagis viridicata" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "Legatus leucophaius" ; Times: 1
+	Query: "Crotophaga sulcirostris" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Sporophila torqueola" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "genus:Rhea sex:Female preparations:Skeleton" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "(scientificname:Poecile hudsonicus)" ; Times: 2
+	Query: "Gubernatrix" ; Times: 1
+	Query: "Volatinia jacarina" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "Myiodynastes maculatus" ; Times: 1
+	Query: "Phaethornis mexicanus" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "pinicola carlottae" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 1
+	Query: "Botaurus lentiginosus" ; Times: 1
+	Query: "Taraba major" ; Times: 1
+	Query: "Saltator maximus" ; Times: 1
+	Query: "family:Phoenicopteridae institutioncode:UBCBBM" ; Times: 5
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Anas americana" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Cossypha natalensis" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Pitangus sulphuratus" ; Times: 1
+	Query: "Peucedramus taeniatus" ; Times: 1
+	Query: "Morococcyx  erythropygus" ; Times: 1
+	Query: "lesser goldfinch" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Myiarchus tyrannulus" ; Times: 1
+	Query: "specificepithet:canadensis genus:perisoreus stateprovince:&#34;British Columbia&#34;" ; Times: 3
+	Query: "Sporophila americana" ; Times: 1
+	Query: "Cowan Tetrapod" ; Times: 3
+	Query: "Cathartes burrovianus" ; Times: 1
+	Query: "Myiodynastes luteiventris" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Pachyramphus aglaiae" ; Times: 1
+	Query: "Ruby-crowned Kinglet" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "northern mockingbird" ; Times: 1
+	Query: "Vireo philadelphicus" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Psarocolius institutioncode:UBCBBM" ; Times: 2
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "ancient murrelet" ; Times: 1
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 11
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Empidonax minimus" ; Times: 1
+	Query: "Myiarchus tuberculifer" ; Times: 1
+	Query: "Thalasseus maximus" ; Times: 1
+	Query: "Cossypha heuglini" ; Times: 1
+	Query: "specificepithet:choliba genus:Megascops mappable:1" ; Times: 1
+	Query: "red-breasted sapsucker distance(location,geopoint(48.80686346108517,-120.65185546875))&lt;100000" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Calidris himantopus" ; Times: 1
+	Query: "Uropsila leucogastra" ; Times: 1
+	Query: "red-naped sapsucker distance(location,geopoint(48.80686346108517,-120.65185546875))&lt;100000" ; Times: 1
+	Query: "Phalaropus tricolor" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Contopus sordidulus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "specificepithet:tullbergi genus:campethera" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 1
+	Query: "Cossypha caffra" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Picoides scalaris" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "guyana myiozetetes" ; Times: 2
+	Query: "oak titmouse" ; Times: 2
+	Query: "Calidris bairdii" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Sayornis nigricans" ; Times: 1
+	Query: "Pyrrhura institutioncode:UBCBBM" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Camptostoma imberbe" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Bubo virginianus Edmonton" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Catharus minimus" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen" ; Times: 1
+	Query: "Glaucidium gnoma" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Hydroprogne caspia" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Cossypha heuglini mappable:1" ; Times: 1
+	Query: "Myiarchus nuttingi" ; Times: 1
+	Query: "Contopus cinereus" ; Times: 1
+	Query: "Crex Crex" ; Times: 6
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Myiarchus cinerascens" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "vntype:specimen institutioncode:UBCBBM hastissue:1" ; Times: 2
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "genus:Dromaius sex:Female preparations:Skeleton" ; Times: 1
+	Query: "Anas discors" ; Times: 1
+	Query: "Vireo hypochryseus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "lipaugus guyana" ; Times: 1
+	Query: "Vireo huttoni" ; Times: 1
+	Query: "specificepithet:miniatus genus:Myioborus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tringa flavipes" ; Times: 1
+	Query: "Pseudastur albicollis" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "black mamo" ; Times: 5
+	Query: "hirundapus" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Mitrephanes phaeocercus" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sittasomus griseicapillus" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Vireo flavoviridis" ; Times: 1
+	Query: "genus:Ectopistes class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 2
+	Query: "Elaenia flavogaster" ; Times: 1
+	Query: "genus:corvus corax lifestage:adult sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "sapsucker distance(location,geopoint(48.80686346108517,-120.65185546875))&lt;100000" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 1
+	Query: "Megascops trichopsis" ; Times: 1
+	Query: "piranga bidentata" ; Times: 1
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "Spinus psaltria" ; Times: 1
+	Query: "Cyanocorax yucatanicus" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "chen rossii institutioncode:UBCBBM" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Charadrius semipalmatus" ; Times: 1
+	Query: "Cyanerpes cyaneus" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Basileuterus rufifrons" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "western scrub jay" ; Times: 1
+	Query: "Bubo virginianus egg Edmonton" ; Times: 1
+	Query: "Chloroceryle americana" ; Times: 1
+	Query: "Myiozetetes similis" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1398 download events in this period)
+Total number of records downloaded: 698
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-17 ; Times: 5
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-25 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves preparations:Alcoholic basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "bananaquit" ; Times: 1
+	Query: "specificepithet:choliba genus:Megascops mappable:1" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "pachyramphus aglaiae" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Nucifraga caryocatactes" ; Times: 1
+	Query: "specificepithet:tullbergi genus:campethera" ; Times: 1
+	Query: "Turdus migratorius hassex:1 hasmass:1" ; Times: 1
+	Query: "&#34;Falco sparverius&#34; vntype:specimen" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Locustellidae" ; Times: 1
+	Query: "Bradypterus" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma hasmass:1" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "capito aurovirens" ; Times: 1
+	Query: "Donacobius" ; Times: 1
+	Query: "specificepithet:polyglottos genus:mimus hasmass:1" ; Times: 1
+	Query: "Turdus migratorius vntype:specimen hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Greater Spotted Eagle" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
