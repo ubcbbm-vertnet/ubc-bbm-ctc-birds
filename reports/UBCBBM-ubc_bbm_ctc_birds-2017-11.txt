@@ -1,0 +1,75 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 364
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 9
+	Date: 2017-11-29 ; Times: 8
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 9
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-25 ; Times: 1
+	Date: 2017-11-30 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "UBCBBM" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 10
+	Query: "Warbling Vireo sex:male" ; Times: 5
+	Query: "Black-vented Shearwater" ; Times: 1
+	Query: "&#34;cayana cayana&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "genus:arremonops institutioncode:UBCBBM" ; Times: 2
+	Query: "Yellow-green Vireo sex:male" ; Times: 1
+	Query: "Blue-headed Vireo sex:male" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 2
+	Query: "gallinago hardwickii" ; Times: 1
+	Query: "specificepithet:celata Queen Charlotte" ; Times: 1
+	Query: "specificepithet:rufivirgatus institutioncode:UBCBBM" ; Times: 1
+	Query: "family:Aepyornithidae" ; Times: 1
+	Query: "Falcated Duck" ; Times: 1
+	Query: "Philadelphia Vireo sex:male" ; Times: 1
+	Query: "plumbeous vireo sex:male" ; Times: 1
+	Query: "yellow-throated vireo sex:male" ; Times: 1
+	Query: "egg greenland" ; Times: 2
+	Query: "Red-eyed Vireo sex:male" ; Times: 8
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "rufous-browed peppershrike sex:male" ; Times: 1
+	Query: "Golden Vireo sex:male" ; Times: 1
+	Query: "Falcated duck" ; Times: 2
+	Query: "&#34;caeruleus longirostris&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "red kite" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1101 download events in this period)
+Total number of records downloaded: 167
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+
+
+End of report.
