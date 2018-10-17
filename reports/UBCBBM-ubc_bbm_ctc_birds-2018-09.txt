@@ -1,0 +1,166 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 2616
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 7
+	Country: South Africa ; Times: 19
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 65
+	Country: India ; Times: 2
+	Country: United States ; Times: 40
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 9
+	Date: 2018-09-24 ; Times: 20
+	Date: 2018-09-03 ; Times: 4
+	Date: 2018-09-26 ; Times: 10
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-21 ; Times: 5
+	Date: 2018-09-04 ; Times: 14
+	Date: 2018-09-23 ; Times: 8
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 7
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 8
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 7
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-25 ; Times: 20
+	Date: 2018-09-20 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "burrowing owl" ; Times: 1
+	Query: "beaty biodiversity museum" ; Times: 1
+	Query: "UBCBBM" ; Times: 1
+	Query: "Acatlan puebla" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "Pterophanes" ; Times: 3
+	Query: "house crow" ; Times: 1
+	Query: "turaco" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 9
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "monk parakeet" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:ornithion country:&#34;guyana&#34;" ; Times: 7
+	Query: "ancient" ; Times: 1
+	Query: "acatlan puebla" ; Times: 5
+	Query: "sporophila lineola" ; Times: 1
+	Query: "caurina specificepithet:occidentalis genus:strix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "band-rumped storm-petrel" ; Times: 1
+	Query: "Fratercula artica" ; Times: 2
+	Query: "songbird" ; Times: 1
+	Query: "vntype:specimen class:AVES country:&#34;South Africa&#34; year &gt;= 1902 year &lt;= 1910 institutioncode:UBCBBM" ; Times: 4
+	Query: "Pavo cristatus" ; Times: 13
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "aepyornis" ; Times: 1
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Leucosticte dawsoni" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 2
+	Query: "numenius arquata canada" ; Times: 1
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 3
+	Query: "vntype:specimen class:AVES country:&#34;South Africa&#34; year &gt;= 1902 year &lt;= 1912 institutioncode:UBCBBM" ; Times: 5
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "greater sage-grouse" ; Times: 3
+	Query: "Nazca Booby" ; Times: 2
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 3
+	Query: "phaethornis mexicanus" ; Times: 1
+	Query: "falco rupicolus" ; Times: 1
+	Query: "ara macao" ; Times: 9
+	Query: "Telespiza" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "vntype:specimen specificepithet:Albiventer genus:Tachycineta" ; Times: 1
+	Query: "specificepithet:macroura class:aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "specificepithet:mexicanus genus:phaethornis hasmass:1" ; Times: 1
+	Query: "atlantic puffin" ; Times: 22
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;South Africa&#34; year &gt;= 1902 year &lt;= 1915 institutioncode:UBCBBM" ; Times: 5
+	Query: "vntype:specimen class:Aves country:&#34;South Africa&#34; year &gt;= 1902 year &lt;= 1909 institutioncode:UBCBBM" ; Times: 5
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 3
+	Query: "institutioncode:ubcbbm" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 846 download events in this period)
+Total number of records downloaded: 1601
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 15
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-07 ; Times: 4
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "acatlan puebla" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "vntype:specimen class:AVES country:&#34;South Africa&#34; year &gt;= 1902 year &lt;= 1912 institutioncode:UBCBBM" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;South Africa&#34; year &gt;= 1902 year &lt;= 1909 institutioncode:UBCBBM" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+
+
+End of report.
