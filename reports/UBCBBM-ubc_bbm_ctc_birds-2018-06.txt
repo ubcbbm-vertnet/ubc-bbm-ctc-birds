@@ -1,0 +1,184 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 587
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 39
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 15
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 7
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-14 ; Times: 8
+	Date: 2018-06-15 ; Times: 11
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-19 ; Times: 8
+	Date: 2018-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 6
+	Query: "Barn Swallow vntype:specimen continent:South America" ; Times: 1
+	Query: "Screech owl hastissue:1" ; Times: 2
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "catalognumber:B020534" ; Times: 1
+	Query: "calocitta colliei" ; Times: 4
+	Query: "vntype:specimen preparations:skin (Gallirallus australis)" ; Times: 1
+	Query: "Aratinga pertinax" ; Times: 1
+	Query: "mammoth institutioncode:UBCBBM" ; Times: 1
+	Query: "(mammoth) institutioncode:UBCBBM" ; Times: 4
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 2
+	Query: "chlorostilbon canivetii" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "white-eyed vireo" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 2
+	Query: "genus:haematopus catalognumber:B020534" ; Times: 1
+	Query: "spotted owl" ; Times: 4
+	Query: "Poecile hudsonicus" ; Times: 4
+	Query: "institutioncode:UBCBBM" ; Times: 2
+	Query: "northern hawk owl" ; Times: 3
+	Query: "clangula hyemalis egg iceland" ; Times: 1
+	Query: "boreal chickadee" ; Times: 2
+	Query: "dicrurus macrocercus pakistan" ; Times: 2
+	Query: "chlorophonia cyanea" ; Times: 2
+	Query: "lagopus leucura" ; Times: 4
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:calypte country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "piranga bidentata" ; Times: 2
+	Query: "pigeon guillemot egg" ; Times: 1
+	Query: "red partridge" ; Times: 1
+	Query: "ixoreus carlottae" ; Times: 1
+	Query: "specificepithet:fischeri genus:Tauraco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hairy woodpecker" ; Times: 1
+	Query: "genus:Aquila county:&#34;san diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "(tusk) institutioncode:UBCBBM" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "Accipiter gentilis institutioncode:UBCBBM" ; Times: 1
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 1
+	Query: "monticola explorator" ; Times: 1
+	Query: "dicrurus macrocercus india" ; Times: 1
+	Query: "Barn Swallow vntype:specimen continent: South America" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 11
+	Query: "blue footed booby" ; Times: 1
+	Query: "northern spotted owl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1169 download events in this period)
+Total number of records downloaded: 1759
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: United States ; Times: 62
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 23
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-06 ; Times: 9
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-07 ; Times: 7
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 7
+	Date: 2018-06-29 ; Times: 6
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-15 ; Times: 8
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "snowy owl" ; Times: 2
+	Query: "horned puffin" ; Times: 1
+	Query: "order:Passeriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "specificepithet:minimus genus:psaltriparus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "wolverine" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(35.784892341187586,-116.70189927220218))&lt;177353" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "black bear" ; Times: 4
+	Query: "order:Accipitriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "elf owl" ; Times: 15
+	Query: "bald eagle" ; Times: 5
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "common yellowthroat" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "genus:Aquila county:&#34;san diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "lepidothrix" ; Times: 1
+	Query: "Accipiter gentilis institutioncode:UBCBBM" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+
+
+End of report.
