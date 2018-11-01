@@ -1,0 +1,183 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 965
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: Iran ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 82
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 12
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-24 ; Times: 7
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-30 ; Times: 7
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-05 ; Times: 3
+	Date: 2018-10-20 ; Times: 3
+	Date: 2018-10-21 ; Times: 4
+	Date: 2018-10-26 ; Times: 12
+	Date: 2018-10-27 ; Times: 3
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-25 ; Times: 16
+	Date: 2018-10-29 ; Times: 12
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 5
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-10 ; Times: 5
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "harlequin duck" ; Times: 1
+	Query: "locality:heatherdown stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "pacific screech owl" ; Times: 1
+	Query: "Falco columbarius suckleyi" ; Times: 3
+	Query: "recordedby:K.L. Dixon" ; Times: 2
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "Cypseloides niger mexico" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "Megascops kennicottii kennicottii institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:stelleri genus:Cyanocitta stateprovince:&#34;British columbia&#34; country:&#34;canada&#34; hastissue:1" ; Times: 1
+	Query: "ara macao vntype:specimen" ; Times: 1
+	Query: "Sooty grouse" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:buteo class:aves country:&#34;Canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix hastissue:1" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei institutioncode:UBCBBM" ; Times: 1
+	Query: "Thryothorus sinaloa" ; Times: 2
+	Query: "recordedby:&#34;K. L. Dixon&#34;" ; Times: 1
+	Query: "ara chloropterus hasmass:1" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "Hirundapus caudacutus" ; Times: 1
+	Query: "northern wheatear hastissue:1" ; Times: 2
+	Query: "dinopium institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:occidentalis genus:Strix stateprovince:&#34;British Columbia&#34; hastissue:1" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "western screech owl institutioncode:UBCBBM" ; Times: 2
+	Query: "gyrfalcon" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "myiopsitta monachus vntype:specimen hasmass:1" ; Times: 1
+	Query: "acrocephalus arundinaceus asia" ; Times: 3
+	Query: "Phoebastria immutabilis (plastic)" ; Times: 3
+	Query: "specificepithet:venustus genus:Granatellus" ; Times: 1
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "Trumpeter swan mappable:1" ; Times: 1
+	Query: "recordedby:KL Dixon" ; Times: 1
+	Query: "vntype:specimen specificepithet:nebulosa genus:strix (wing)" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "institutioncode:UBCBBM" ; Times: 1
+	Query: "brown-headed cowbird california year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Marsh Wren" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis preparations:skin" ; Times: 1
+	Query: "Leucosticte dawsoni" ; Times: 3
+	Query: "northern cardinal" ; Times: 1
+	Query: "genus:Baeolophus recordedby:&#34;K. L. Dixon&#34;" ; Times: 1
+	Query: "procellariiformes (plastic)" ; Times: 2
+	Query: "procellariiformes plastic" ; Times: 1
+	Query: "class:aves recordedby:rex" ; Times: 2
+	Query: "spotted owl" ; Times: 2
+	Query: "genus:gyps bengalensis" ; Times: 3
+	Query: "specificepithet:oenanthe genus:Oenanthe class:aves" ; Times: 1
+	Query: "myiopsitta monachus hasmass:1" ; Times: 2
+	Query: "campephilus" ; Times: 1
+	Query: "specificepithet:mauri genus:Calidris continent:South America" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "ara macao hasmass:1" ; Times: 1
+	Query: "class:aves locality:pender" ; Times: 1
+	Query: "Magnificent frigatebird" ; Times: 1
+	Query: "summer tanager egg" ; Times: 1
+	Query: "pitta brachyura" ; Times: 2
+	Query: "Tangara arthus" ; Times: 2
+	Query: "amazona oratrix vntype:specimen hasmass:1" ; Times: 1
+	Query: "california kern avian" ; Times: 1
+	Query: "megascops kennicottii hastissue:1" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "genus:Granatellus" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia" ; Times: 2
+	Query: "gavia vntype:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus mappable:1" ; Times: 3
+	Query: "western screech owl institutioncode:UBCBBM hastissue:1" ; Times: 2
+	Query: "kern county avian" ; Times: 1
+	Query: "king vulture" ; Times: 2
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "western screech owl hastissue:1" ; Times: 3
+	Query: "Megascops kennicottii macfarlanei" ; Times: 1
+	Query: "Apus barbatus" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta stateprovince:&#34;British columbia&#34; country:&#34;canada&#34; year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "san joaquin avian" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1300 download events in this period)
+Total number of records downloaded: 398
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 15
+	Country: Belgium ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Megascops asio" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "paulson" ; Times: 1
+
+
+End of report.
