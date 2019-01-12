@@ -1,0 +1,152 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 6
+	Country: United States ; Times: 31
+	Country: Peru ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-03 ; Times: 8
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-06 ; Times: 4
+	Date: 2018-12-19 ; Times: 4
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "honeycreeper" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Megascops kennicottii institutioncode:UBCBBM hastissue:1" ; Times: 1
+	Query: "Reindeer" ; Times: 1
+	Query: "Black Guillemot" ; Times: 1
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 1
+	Query: "specificepithet:venustus francescae genus:Granatellus" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "tragopan" ; Times: 1
+	Query: "Fratercula arctica mappable:1" ; Times: 1
+	Query: "athene noctua" ; Times: 5
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "kelp gull" ; Times: 1
+	Query: "recordedby:darcus" ; Times: 3
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "Western Screech Owl institutioncode:UBCBBM hastissue:1" ; Times: 1
+	Query: "Iceland Gull" ; Times: 1
+	Query: "Calandrella rufescens" ; Times: 1
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "gubernatrix" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 2
+	Query: "spotted owl" ; Times: 1
+	Query: "falkland island" ; Times: 3
+	Query: "great frigatebird" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "Burrowing owl" ; Times: 3
+	Query: "vntype:specimen specificepithet:leucotos genus:Dendrocopos" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 2
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "pacific loon" ; Times: 3
+	Query: "clapper rail" ; Times: 1
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 809 download events in this period)
+Total number of records downloaded: 2096
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 14
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-17 ; Times: 9
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:venustus francescae genus:Granatellus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+
+
+End of report.
