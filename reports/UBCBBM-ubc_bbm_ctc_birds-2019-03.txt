@@ -1,0 +1,236 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 2338
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: United States ; Times: 83
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 56
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: Peru ; Times: 1
+	Country: South Africa ; Times: 9
+	Country: United Kingdom ; Times: 34
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: France ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 9
+	Date: 2019-03-27 ; Times: 9
+	Date: 2019-03-26 ; Times: 10
+	Date: 2019-03-25 ; Times: 4
+	Date: 2019-03-09 ; Times: 3
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 9
+	Date: 2019-03-06 ; Times: 19
+	Date: 2019-03-01 ; Times: 23
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-02 ; Times: 40
+	Date: 2019-03-30 ; Times: 6
+	Date: 2019-03-03 ; Times: 6
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-15 ; Times: 10
+	Date: 2019-03-12 ; Times: 4
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-11 ; Times: 43
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:haliaetus genus:Pandion country:&#34;Mexico&#34;" ; Times: 2
+	Query: "UBCBBM B020691" ; Times: 2
+	Query: "UBCBBM B020165" ; Times: 2
+	Query: "specificepithet:tucumana genus:Amazona hastissue:1" ; Times: 1
+	Query: "genus:buteo institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 6
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 4
+	Query: "elf" ; Times: 3
+	Query: "gray jay" ; Times: 1
+	Query: "specificepithet:nivalis genus:Plectrophenax year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "aquila clanga" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 2
+	Query: "vntype:specimen country:&#34;South Africa&#34; recordedby:LE Taylor institutioncode:UBCBBM" ; Times: 1
+	Query: "UBCBBM B020696" ; Times: 2
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Western scrub-jay" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "muscovy duck" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "UBCBBM B020699" ; Times: 2
+	Query: "vntype:specimen genus:Anthus family:Motacillidae class:Aves country:&#34;Canada&#34; institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UBCBBM B020813" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Tauraco persa hasmass:1" ; Times: 3
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 7
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "UBCBBM" ; Times: 4
+	Query: "Gymnopithys rufigula mappable:1" ; Times: 2
+	Query: "egret vntype:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "Amazona auropalliata hastissue:1" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "locality:Mayne Island stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:agilis genus:Oporornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phaethornis mexicanus" ; Times: 1
+	Query: "Cynanthus lawrencei" ; Times: 28
+	Query: "vntype:specimen specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "Stanley Park zoo" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "vntype:specimen genus:Anthus family:Motacillidae class:Aves institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "Mimus polyglottos hasmass:1" ; Times: 4
+	Query: "Elaenia cristata mappable:1" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 4
+	Query: "atlantic puffin" ; Times: 5
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Texas" ; Times: 4
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "curl-crested aracari" ; Times: 2
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "Euplectes nigroventris" ; Times: 1
+	Query: "genus:Passer country:&#34;Mexico&#34;" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "egret vntype:specimen preparations:mount institutioncode:UBCBBM" ; Times: 1
+	Query: "buteogallus anthracinus" ; Times: 1
+	Query: "black phoebe" ; Times: 4
+	Query: "Cuculus canorus (egg)" ; Times: 1
+	Query: "UBCBBM B020862" ; Times: 1
+	Query: "Cuculus canorus egg" ; Times: 1
+	Query: "vntype:specimen family:Parulidae class:Aves country:&#34;Canada&#34; institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "montezuma quail" ; Times: 4
+	Query: "vntype:specimen genus:Dendroica family:Parulidae class:Aves country:&#34;Canada&#34; institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Ara militaris" ; Times: 2
+	Query: "UBCBBM B020652" ; Times: 2
+	Query: "UBCBBM B020154" ; Times: 2
+	Query: "UBCBBM B020151" ; Times: 4
+	Query: "UBCBBM B020850" ; Times: 2
+	Query: "UBCBBM B020852" ; Times: 2
+	Query: "UBCBBM B020853" ; Times: 2
+	Query: "UBCBBM B020854" ; Times: 2
+	Query: "UBCBBM B020856" ; Times: 2
+	Query: "white-tailed hawk" ; Times: 2
+	Query: "Megascops choliba mappable:1" ; Times: 1
+	Query: "UBCBBM B020083" ; Times: 1
+	Query: "UBCBBM B020082" ; Times: 2
+	Query: "UBCBBM B020081" ; Times: 2
+	Query: "UBCBBM B020080" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:tanneri genus:Troglodytes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "UBCBBM B020536" ; Times: 2
+	Query: "UBCBBM B020535" ; Times: 4
+	Query: "Gymnopithys rufigula" ; Times: 3
+	Query: "Celeus flavus" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Leptocoma calcostetha" ; Times: 2
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 1
+	Query: "buteogallus urubitinga" ; Times: 1
+	Query: "Milvago chimango mappable:1" ; Times: 1
+	Query: "Cyanocitta cristata hasmass:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "UBCBBM B020704" ; Times: 2
+	Query: "vntype:specimen specificepithet:levaillantii genus:francolinus" ; Times: 2
+	Query: "UBCBBM B020679" ; Times: 2
+	Query: "cygnus atratus egg vntype:specimen" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UBCBBM B020833" ; Times: 2
+	Query: "clamator jacobinus africa" ; Times: 2
+	Query: "UBCBBM B020694" ; Times: 2
+	Query: "UBCBBM B020834" ; Times: 2
+	Query: "UBCBBM B020835" ; Times: 2
+	Query: "Larus dominicanus mappable:1" ; Times: 1
+	Query: "Carrion Crow" ; Times: 3
+	Query: "Troglodytes sissonii" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+	Query: "genus:synthliboramphus institutioncode:UBCBBM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1281 download events in this period)
+Total number of records downloaded: 296
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-17 ; Times: 4
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus caurinus" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "locality:Mayne Island stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "Cuculus canorus (egg)" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Leptocoma calcostetha" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hasmass:1" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "american coot" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+
+
+End of report.
