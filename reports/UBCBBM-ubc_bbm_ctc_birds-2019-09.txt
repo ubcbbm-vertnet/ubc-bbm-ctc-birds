@@ -1,0 +1,181 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 719
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 142
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 9
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 12
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-19 ; Times: 10
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 90
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 10
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 6
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 5
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphyrapicus ruber AND Island" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 12
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "black headed grosbeak vntype:specimen hastissue:1" ; Times: 2
+	Query: "Calidris canutus" ; Times: 15
+	Query: "specificepithet:elegans genus:Trogon sex:female" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "arctic tern" ; Times: 1
+	Query: "western tanager" ; Times: 1
+	Query: "weka" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 6
+	Query: "elf" ; Times: 1
+	Query: "poecile rufescens year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Lissotis notophila" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon sex:Female" ; Times: 1
+	Query: "Green kingfisher" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 2
+	Query: "genus:Zosterops preparations:egg" ; Times: 1
+	Query: "tricolored blackbird" ; Times: 1
+	Query: "Myrmecocichla aethiops vntype:specimen sex:female" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "Aphelocoma californica Contra Costa County" ; Times: 1
+	Query: "sparkling violetear" ; Times: 3
+	Query: "genus:Aptenodytes sex:Female" ; Times: 1
+	Query: "Perisoreus canadensis alberta egg" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "family:Sittidae preparations:egg" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;british columbia&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Campephilus guatemalensis" ; Times: 2
+	Query: "Myrmecocichla aethiops vntype:specimen" ; Times: 1
+	Query: "Pyrilia pyrilia" ; Times: 1
+	Query: "family:Thraupidae preparations:egg" ; Times: 2
+	Query: "Pinguinus" ; Times: 3
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 7
+	Query: "palumbus Columba" ; Times: 3
+	Query: "2909 chordeiles" ; Times: 1
+	Query: "cardinalis sinaloensis" ; Times: 1
+	Query: "Phoenicurus moussieri" ; Times: 6
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "mourning dove wing" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 16
+	Query: "elegans Trogon Female" ; Times: 2
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+	Query: "Saucerottia tobaci" ; Times: 4
+	Query: "Ramphocoris clotbey" ; Times: 1
+	Query: "cypseloides niger basisofrecord:PreservedSpecimen country:canada" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1073 download events in this period)
+Total number of records downloaded: 252
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 16
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "order:passeriformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "pitta" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliothryx aurita" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Saucerottia tobaci" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
