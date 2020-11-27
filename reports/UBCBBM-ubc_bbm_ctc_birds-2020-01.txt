@@ -1,0 +1,185 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 619
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 40
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 13
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 15
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-03 ; Times: 12
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 17
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-22 ; Times: 9
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 9
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 13
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-14 ; Times: 9
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-23 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 3
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "british columbia 1930 egg" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella preparations:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "black-bellied whistling-duck" ; Times: 1
+	Query: "red-crested pochard" ; Times: 1
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "Tufted duck" ; Times: 1
+	Query: "UBCBBM B020536" ; Times: 1
+	Query: "british columbia 1929 egg" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "bushtit egg" ; Times: 4
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Irwin" ; Times: 1
+	Query: "Ferruginous duck" ; Times: 1
+	Query: "feather warbler hasmedia:1" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UBCBBM" ; Times: 1
+	Query: "class:aves recordedby:browning basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Skin hastissue:1" ; Times: 1
+	Query: "Ramphocoris" ; Times: 1
+	Query: "Common pochard" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; lifestage:Juvenile" ; Times: 1
+	Query: "Northern shoveler" ; Times: 1
+	Query: "nestor notabilis" ; Times: 1
+	Query: "genus:psaltriparus preparations:egg" ; Times: 5
+	Query: "Dusky Thrush" ; Times: 1
+	Query: "opisthocomus" ; Times: 2
+	Query: "british columbia 1883" ; Times: 1
+	Query: "poorwill canada" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 7
+	Query: "ruddy shelduck" ; Times: 5
+	Query: "short eared owl" ; Times: 1
+	Query: "Phalaenoptilus canada" ; Times: 1
+	Query: "chaetops" ; Times: 1
+	Query: "common poorwill" ; Times: 3
+	Query: "locality:triangle island stateprovince:&#34;british columbia&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:corax genus:corvus preparations:egg year &gt;= 1" ; Times: 1
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Skin" ; Times: 2
+	Query: "psaltriparus (nest or egg)" ; Times: 1
+	Query: "UBCBBM B020535" ; Times: 4
+	Query: "Ara militaris" ; Times: 7
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Garganey" ; Times: 2
+	Query: "specificepithet:villosus genus:Picoides hasmass:1 haslength:1" ; Times: 1
+	Query: "UBCBBM B020151" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Egg" ; Times: 2
+	Query: "koklass" ; Times: 1
+	Query: "pterodroma kermadec" ; Times: 4
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops preparations:Skin institutioncode:UBCBBM" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1584 download events in this period)
+Total number of records downloaded: 2698
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Germany ; Times: 2
+	Country: France ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Irwin" ; Times: 1
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 8
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "genus:psaltriparus preparations:egg" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "specificepithet:capensis genus:Emberiza family:Emberizidae class:Aves continent:Africa" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "pucrasia macrolopha" ; Times: 2
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "rainier" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+
+
+End of report.
