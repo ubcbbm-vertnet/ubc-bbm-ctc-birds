@@ -1,0 +1,273 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 1420
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Canada ; Times: 10
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 21
+	Country: India ; Times: 5
+	Country: France ; Times: 2
+	Country: United States ; Times: 122
+	Country: Austria ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Thailand ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 6
+	Date: 2019-10-22 ; Times: 52
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-05 ; Times: 5
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-06 ; Times: 4
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-24 ; Times: 16
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 4
+	Date: 2019-10-13 ; Times: 2
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-11 ; Times: 8
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-31 ; Times: 8
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-15 ; Times: 6
+	Date: 2019-10-30 ; Times: 29
+
+List of queries that retrieved data from the resource: 
+	Query: "Galerida malabarica" ; Times: 1
+	Query: "githagineus Bucanetes" ; Times: 2
+	Query: "specificepithet:opisthomelas genus:Puffinus preparations:egg" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad NOT Anthony" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Poecile gambeli alberta" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT CARPENTER NOT YPM NOT Bancroft NOT Harrison" ; Times: 1
+	Query: "black headed gull" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Mimus AND Isla NOT Ecuador NOT Bolivia NOT Venezuela" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 2
+	Query: "Sternula antillarum browni 2015" ; Times: 1
+	Query: "Sternula antillarum browni 2016" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 1
+	Query: "Stercorariidae continent:Africa" ; Times: 5
+	Query: "Baeolophus inornatus California alameda county" ; Times: 1
+	Query: "Eremophila alpestris egg alberta" ; Times: 1
+	Query: "Phaethon aethereus AND Island" ; Times: 1
+	Query: "Vireo bellii pusillus 2015" ; Times: 1
+	Query: "Vireo bellii pusillus 2016" ; Times: 1
+	Query: "Syrmaticus humiae" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "Eremophila alpestris strigata 2006" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 2
+	Query: "genus:ortygospiza class:aves year &lt;= 2019" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 4
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "Calidris canutus rufa 2015" ; Times: 1
+	Query: "Calidris canutus rufa 2016" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad" ; Times: 3
+	Query: "Aphelocoma coerulescens 2015" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad NOT &#34;1897-04-09&#34;" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Mimus AND Isla" ; Times: 1
+	Query: "specificepithet:phoenicoptera genus:pytilia class:aves" ; Times: 1
+	Query: "pitiayumi insularis vntype:specimen" ; Times: 1
+	Query: "Brachyramphus marmoratus 2005" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT YPM NOT Bancroft NOT Harrison" ; Times: 1
+	Query: "Coccyzus americanus 1994" ; Times: 1
+	Query: "Calypte costae AND Baja" ; Times: 1
+	Query: "Phoenicurus moussieri vntype:specimen" ; Times: 1
+	Query: "Eremophila alpestris strigata 2008" ; Times: 1
+	Query: "Eremophila alpestris strigata 2004" ; Times: 1
+	Query: "Eremophila alpestris strigata 2005" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "Eremophila alpestris strigata 2007" ; Times: 1
+	Query: "Eremophila alpestris strigata 2000" ; Times: 1
+	Query: "Eremophila alpestris strigata 2001" ; Times: 1
+	Query: "Eremophila alpestris strigata 2002" ; Times: 1
+	Query: "Eremophila alpestris strigata 2003" ; Times: 1
+	Query: "venezuelan troupial" ; Times: 4
+	Query: "Tringa totanus hasmass:1" ; Times: 2
+	Query: "Geothlypis tolmiei year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:seledon genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad NOT &#34;1897-04-09&#34; NOT 1940" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "cactus wren" ; Times: 1
+	Query: "Stercorariidae continent:South America" ; Times: 8
+	Query: "Eremophila alpestris strigata 2016" ; Times: 1
+	Query: "Eremophila alpestris strigata 2015" ; Times: 1
+	Query: "Puffinus griseus AND Martin" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 2
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:geothlypis stateprovince:&#34;british columbia&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Myadestes townsendi AND Island" ; Times: 1
+	Query: "pitiayumi pulchra vntype:specimen" ; Times: 1
+	Query: "warbling vireo" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT Harrison" ; Times: 2
+	Query: "Mimus AND Isla NOT Ecuador NOT Bolivia" ; Times: 1
+	Query: "common quail" ; Times: 4
+	Query: "manitoba hudsonicus poecile" ; Times: 1
+	Query: "Brachyramphus marmoratus 1991" ; Times: 1
+	Query: "specificepithet:tanneri genus:troglodytes" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 1
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "Carduelis psaltria AND Isla" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax institutioncode:UBCBBM" ; Times: 1
+	Query: "Brachyramphus marmoratus 1996" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 2
+	Query: "Eremophila alpestris strigata 1998" ; Times: 1
+	Query: "reindeer" ; Times: 1
+	Query: "Reithrodontomys megalotis 1989" ; Times: 1
+	Query: "genus:geothlypis country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "institutioncode:UBCBBM" ; Times: 1
+	Query: "Brachyramphus marmoratus 1987" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "Spheniscus" ; Times: 1
+	Query: "Phaethon aethereus AND Isla" ; Times: 1
+	Query: "Microtus longicaudus 1986" ; Times: 1
+	Query: "piranga erythrocephala" ; Times: 2
+	Query: "Puffinus creatopus AND Martin" ; Times: 2
+	Query: "Parula insularis vntype:specimen" ; Times: 1
+	Query: "Parula pulchra vntype:specimen" ; Times: 1
+	Query: "Brachyramphus marmoratus 1990" ; Times: 1
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Brachyramphus marmoratus 1993" ; Times: 1
+	Query: "Brachyramphus marmoratus 1994" ; Times: 1
+	Query: "Eremophila alpestris strigata 1999" ; Times: 1
+	Query: "Brachyramphus marmoratus 1997" ; Times: 1
+	Query: "Eremophila alpestris strigata 1997" ; Times: 1
+	Query: "Eremophila alpestris strigata 1996" ; Times: 1
+	Query: "Eremophila alpestris strigata 1995" ; Times: 1
+	Query: "Eremophila alpestris strigata 1994" ; Times: 1
+	Query: "Eremophila alpestris strigata 1993" ; Times: 1
+	Query: "Puffinus opisthomelas" ; Times: 2
+	Query: "specificepithet:pictum genus:emblema class:aves" ; Times: 1
+	Query: "7247 tyrannus" ; Times: 1
+	Query: "order:Anseriformes institutioncode:UBCBBM" ; Times: 2
+	Query: "Puffinus opisthomelas AND Natividad AND 1932" ; Times: 2
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 2
+	Query: "Strix occidentalis caurina 2015" ; Times: 1
+	Query: "Tringa brevipes hasmass:1" ; Times: 2
+	Query: "Strix occidentalis caurina 2016" ; Times: 1
+	Query: "Strix occidentalis caurina 2010" ; Times: 1
+	Query: "Strix occidentalis caurina 2012" ; Times: 1
+	Query: "cardinalis igneus" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "mctaggart cowan" ; Times: 2
+	Query: "genus:Sphyrapicus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae mappable:1" ; Times: 1
+	Query: "Eremophila alpestris egg san diego" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "Accipiter gentilis laingi mappable:1" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:aquila institutioncode:UBCBBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:desmaresti genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:tanneri genus:troglodytes recordnumber:*" ; Times: 1
+	Query: "Puffinus opisthomelas AND Cruz" ; Times: 2
+	Query: "Aegolius acadicus brooksi mappable:1" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "Stercorariidae continent:America North" ; Times: 1
+	Query: "Mimus AND Isla NOT Ecuador" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1308 download events in this period)
+Total number of records downloaded: 690
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa recordedby:Williams" ; Times: 1
+	Query: "Tangara" ; Times: 2
+	Query: "sturnella bellicosa" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 3
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "ara militaris" ; Times: 1
+
+
+End of report.
