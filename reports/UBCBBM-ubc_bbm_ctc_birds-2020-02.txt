@@ -1,0 +1,167 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 827
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 60
+	Country: United Kingdom ; Times: 14
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-03 ; Times: 6
+	Date: 2020-02-26 ; Times: 6
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-21 ; Times: 7
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 6
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-14 ; Times: 6
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-24 ; Times: 18
+	Date: 2020-02-25 ; Times: 8
+	Date: 2020-02-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "snow owl" ; Times: 2
+	Query: "puffinus pacificus kermadec" ; Times: 1
+	Query: "fulmarus glacialis canada year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "Campephilus guatemalensis" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula" ; Times: 1
+	Query: "procellaria parkinsoni" ; Times: 1
+	Query: "black-legged kittiwake" ; Times: 2
+	Query: "great Auk" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "buteo trizonatus vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "Polioptila margaritae vntype:specimen" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen Greater Sage Grouse" ; Times: 1
+	Query: "juvenile osprey" ; Times: 1
+	Query: "rusty blackbird" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 2
+	Query: "ptarmigan institutioncode:UBCBBM" ; Times: 4
+	Query: "specificepithet:torquatus genus:Megaceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sphenoeacus afer" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "buteo trizonatus" ; Times: 2
+	Query: "Buteo trizonatus vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:UBCBBM" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "Philortyx fasciatus" ; Times: 8
+	Query: "peregrine falcon 1940" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 5
+	Query: "passenger pigeon" ; Times: 5
+	Query: "genus:gavia preparations:skin institutioncode:UBCBBM" ; Times: 1
+	Query: "pachyptila falkland" ; Times: 2
+	Query: "pelecanoides urinatrix pacific" ; Times: 1
+	Query: "Elegant Quail" ; Times: 1
+	Query: "specificepithet:alcyon genus:Megaceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bradypterus victorini" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 1
+	Query: "pascua" ; Times: 1
+	Query: "warbling vireo" ; Times: 1
+	Query: "arctic tern" ; Times: 1
+	Query: "black rosy-finch" ; Times: 1
+	Query: "Banded Quail" ; Times: 1
+	Query: "pandion cristatus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 3
+	Query: "specificepithet:niger genus:Chlidonias class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spectacled eider" ; Times: 2
+	Query: "atlantic puffin" ; Times: 5
+	Query: "Callipepla douglasii" ; Times: 2
+	Query: "specificepithet:niger class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "gbifdatasetid:ba0c046d-52bb-4262-a495-652988c9f3f7" ; Times: 1
+	Query: "Buteo buteo vntype:specimen country:&#34;South Africa&#34; year &lt;= 2020" ; Times: 1
+	Query: "Greater Sage Grouse" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:UBCBBM" ; Times: 1
+	Query: "long-tailed duck" ; Times: 2
+	Query: "puffinus subalaris" ; Times: 2
+	Query: "Ortygospiza atricollis" ; Times: 4
+	Query: "pelecanoides urinatrix exsul" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1023 download events in this period)
+Total number of records downloaded: 2483
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 25
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Guyana ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "Tyto alba" ; Times: 1
+	Query: "prinia inornata" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+
+
+End of report.
