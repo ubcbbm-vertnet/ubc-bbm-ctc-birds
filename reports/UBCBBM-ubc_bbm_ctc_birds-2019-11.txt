@@ -1,0 +1,235 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 322
+Number of records retrieved in searches: 1576
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Turkey ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 261
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Thailand ; Times: 14
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 4
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-15 ; Times: 28
+	Date: 2019-11-14 ; Times: 18
+	Date: 2019-11-17 ; Times: 2
+	Date: 2019-11-16 ; Times: 46
+	Date: 2019-11-11 ; Times: 12
+	Date: 2019-11-10 ; Times: 13
+	Date: 2019-11-13 ; Times: 16
+	Date: 2019-11-12 ; Times: 6
+	Date: 2019-11-08 ; Times: 60
+	Date: 2019-11-09 ; Times: 29
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-21 ; Times: 7
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-06 ; Times: 19
+	Date: 2019-11-07 ; Times: 43
+	Date: 2019-11-04 ; Times: 6
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vireo gilvus alberta" ; Times: 1
+	Query: "Pandion haliaetus haliaetus hasmass:1" ; Times: 1
+	Query: "Botaurus stellaris stellaris hasmass:1" ; Times: 1
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "Gallinula chloropus chloropus hasmass:1" ; Times: 1
+	Query: "Rynchops albicollis class:aves continent:asia" ; Times: 1
+	Query: "specificepithet:ruber class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Huey NOT Stephens" ; Times: 9
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913" ; Times: 3
+	Query: "elf" ; Times: 2
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "Sternula antillarum browni 2016" ; Times: 3
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "yellow rail" ; Times: 3
+	Query: "Himantopus himantopus himantopus hasmass:1" ; Times: 1
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "class:Aves locality:Rio ramos country:&#34;México&#34;" ; Times: 2
+	Query: "Motacilla cinerea cinerea hasmass:1" ; Times: 1
+	Query: "Pycnonotus xanthopygos" ; Times: 2
+	Query: "specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Anas crecca crecca hasmass:1" ; Times: 1
+	Query: "Vireo gilvus swainsoni british columbia" ; Times: 1
+	Query: "UBC BM" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem" ; Times: 1
+	Query: "class:aves recordedby:browning" ; Times: 1
+	Query: "Calidris canutus rufa 2015" ; Times: 5
+	Query: "Calidris canutus rufa 2016" ; Times: 4
+	Query: "Cepphus grylle US" ; Times: 1
+	Query: "Strix occidentalis caurina 2015" ; Times: 3
+	Query: "Gallus gallus domesticus hasmass:1" ; Times: 1
+	Query: "piranga erythrocephala" ; Times: 1
+	Query: "Strix occidentalis caurina 2016" ; Times: 3
+	Query: "Brachyramphus marmoratus 2005" ; Times: 5
+	Query: "Aves Jammu UBCBBM" ; Times: 1
+	Query: "Coccyzus americanus 1994" ; Times: 4
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Ptilopachus petrosus" ; Times: 7
+	Query: "Eremophila alpestris strigata 2008" ; Times: 4
+	Query: "Eremophila alpestris strigata 2004" ; Times: 4
+	Query: "Eremophila alpestris strigata 2005" ; Times: 4
+	Query: "Eremophila alpestris strigata 2006" ; Times: 4
+	Query: "Eremophila alpestris strigata 2007" ; Times: 4
+	Query: "Eremophila alpestris strigata 2000" ; Times: 4
+	Query: "Eremophila alpestris strigata 2001" ; Times: 4
+	Query: "Eremophila alpestris strigata 2002" ; Times: 4
+	Query: "Eremophila alpestris strigata 2003" ; Times: 4
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Huey" ; Times: 3
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "hoatzin" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "specificepithet:tolmiei class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Hydroprogne caspia hasmass:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "great auk" ; Times: 1
+	Query: "puffinus auricularis" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "warbling vireo" ; Times: 2
+	Query: "Sharp-tailed grouse" ; Times: 5
+	Query: "Falco sparverius institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:americana class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Aphelocoma coerulescens 2016" ; Times: 4
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "raza island" ; Times: 1
+	Query: "bushtit egg" ; Times: 4
+	Query: "Brachyramphus marmoratus 1996" ; Times: 5
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "skeletons birds" ; Times: 1
+	Query: "Gallinago gallinago gallinago hasmass:1" ; Times: 1
+	Query: "flammulated owl" ; Times: 2
+	Query: "Eolophus roseicapilla" ; Times: 1
+	Query: "Aves Jammu" ; Times: 1
+	Query: "Brachyramphus marmoratus 1987" ; Times: 5
+	Query: "passenger pigeon" ; Times: 4
+	Query: "Piping plover" ; Times: 2
+	Query: "Rynchops class:aves continent:asia" ; Times: 1
+	Query: "Sternula antillarum browni 2015" ; Times: 3
+	Query: "arctic tern" ; Times: 3
+	Query: "class:aves catalognumber:B015183 year:1994 month:6" ; Times: 8
+	Query: "Stercorarius parasiticus year &gt; 1990" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 3
+	Query: "specificepithet:occidentalis class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "Brachyramphus marmoratus 1990" ; Times: 5
+	Query: "Brachyramphus marmoratus 1991" ; Times: 5
+	Query: "Brachyramphus marmoratus 1993" ; Times: 5
+	Query: "Brachyramphus marmoratus 1994" ; Times: 5
+	Query: "Eremophila alpestris strigata 1999" ; Times: 4
+	Query: "Eremophila alpestris strigata 1998" ; Times: 4
+	Query: "Eremophila alpestris strigata 1997" ; Times: 4
+	Query: "Eremophila alpestris strigata 1996" ; Times: 4
+	Query: "Eremophila alpestris strigata 1995" ; Times: 4
+	Query: "Eremophila alpestris strigata 1994" ; Times: 4
+	Query: "Eremophila alpestris strigata 1993" ; Times: 4
+	Query: "scaly-breasted munia" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "class:aves catalognumber:B015183 year:1994 month:6 day:19" ; Times: 8
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Brachyramphus marmoratus 1997" ; Times: 5
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "specificepithet:fuscescens class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 7
+	Query: "Strix occidentalis caurina 2010" ; Times: 3
+	Query: "Strix occidentalis caurina 2012" ; Times: 3
+	Query: "tristis jewetti" ; Times: 1
+	Query: "Calliope calliope hasmass:1" ; Times: 1
+	Query: "Anas platyrhynchos platyrhynchos hasmass:1" ; Times: 1
+	Query: "specificepithet:cassinii class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Calliope calliope calliope hasmass:1" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1367 download events in this period)
+Total number of records downloaded: 756
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 2
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 11
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 7
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bushtit eggs" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "Rynchops albicollis class:aves continent:asia" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Aves Jammu UBCBBM" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto (stomach)" ; Times: 1
+	Query: "Falco sparverius institutioncode:UBCBBM" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "specificepithet:thayeri genus:Larus country:&#34;Canada&#34;" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
