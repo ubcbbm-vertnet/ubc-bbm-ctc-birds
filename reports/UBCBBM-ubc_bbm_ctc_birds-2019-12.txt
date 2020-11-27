@@ -1,0 +1,164 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 1100
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 17
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 9
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 131
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 2
+	Date: 2019-12-27 ; Times: 23
+	Date: 2019-12-26 ; Times: 39
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-30 ; Times: 37
+	Date: 2019-12-31 ; Times: 18
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-19 ; Times: 6
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-09 ; Times: 4
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-10 ; Times: 13
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 9
+	Date: 2019-12-03 ; Times: 6
+	Date: 2019-12-02 ; Times: 8
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "darcus" ; Times: 3
+	Query: "Eremophila alpestris strigata 1999" ; Times: 6
+	Query: "Eremophila alpestris strigata 1998" ; Times: 6
+	Query: "Eremophila alpestris strigata 1997" ; Times: 6
+	Query: "bumblebee" ; Times: 1
+	Query: "Eremophila alpestris strigata 1995" ; Times: 6
+	Query: "Eremophila alpestris strigata 1994" ; Times: 6
+	Query: "Eremophila alpestris strigata 1993" ; Times: 6
+	Query: "Cowan Tetrapod" ; Times: 2
+	Query: "genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:miniatus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "calidris canutus roselaari" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "spinus tristis jewetti" ; Times: 1
+	Query: "petrel bare 1925" ; Times: 1
+	Query: "Eremophila alpestris strigata 2003" ; Times: 6
+	Query: "specificepithet:perdicaria genus:nothoprocta family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Basileuterus mappable:1" ; Times: 1
+	Query: "specificepithet:paradisaea genus:Sterna continent:Europe" ; Times: 1
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco continent:south america basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Lophura inornata" ; Times: 3
+	Query: "1932 bare island" ; Times: 1
+	Query: "young pine island" ; Times: 1
+	Query: "boreal owl" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "reindeer" ; Times: 1
+	Query: "Eremophila alpestris strigata 2008" ; Times: 6
+	Query: "Eremophila alpestris strigata 1996" ; Times: 6
+	Query: "Eremophila alpestris strigata 2004" ; Times: 6
+	Query: "specificepithet:certhia genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2006" ; Times: 6
+	Query: "collectioncode:ctc" ; Times: 1
+	Query: "Eremophila alpestris strigata 2000" ; Times: 6
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2002" ; Times: 6
+	Query: "specificepithet:amazona genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "Buteo jamaicensis 1937" ; Times: 1
+	Query: "Cathartes aura AND Island NOT Cuba NOT Falkland" ; Times: 2
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 2
+	Query: "Sula nebouxii AND Island NOT Galapagos NOT Nayarit" ; Times: 1
+	Query: "tufted duck" ; Times: 2
+	Query: "Accipiter striatus AND Martin Island" ; Times: 1
+	Query: "specificepithet:perdicaria genus:nothoprocta family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "Eremophila alpestris strigata 2005" ; Times: 6
+	Query: "vntype:specimen specificepithet:corythaix genus:Tauraco country:&#34;South Africa&#34;" ; Times: 1
+	Query: "Pallid harrier" ; Times: 1
+	Query: "american golden plover" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "1932 bare" ; Times: 3
+	Query: "elf" ; Times: 1
+	Query: "1932 bare british columbia" ; Times: 3
+	Query: "specificepithet:minutus genus:Xenops mappable:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2007" ; Times: 6
+	Query: "Eremophila alpestris strigata 2016" ; Times: 6
+	Query: "Eremophila alpestris strigata 2015" ; Times: 6
+	Query: "vntype:specimen specificepithet:livingstonii genus:Tauraco" ; Times: 1
+	Query: "1932 mandarte" ; Times: 2
+	Query: "darcus 1936" ; Times: 1
+	Query: "specificepithet:matthewsii genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2001" ; Times: 6
+	Query: "Turnix sylvaticus" ; Times: 3
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anser albifrons gambelli" ; Times: 1
+	Query: "Cathartes aura AND Island" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria mappable:1" ; Times: 1
+	Query: "Ramphocoris clotbey" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 596 download events in this period)
+Total number of records downloaded: 184
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Hong Kong ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "family:tinamidae class:aves preparations:skin hasmass:1" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis salicamans" ; Times: 1
+	Query: "spinus tristis jewetti" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "Pallid harrier" ; Times: 1
+
+
+End of report.
