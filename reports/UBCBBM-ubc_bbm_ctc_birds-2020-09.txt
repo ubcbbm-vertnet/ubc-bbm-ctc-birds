@@ -1,0 +1,294 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 778
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: Canada ; Times: 38
+	Country: Australia ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 39
+	Country: India ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 19
+	Date: 2020-09-04 ; Times: 6
+	Date: 2020-09-21 ; Times: 9
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-23 ; Times: 15
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 10
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 6
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-16 ; Times: 28
+	Date: 2020-09-14 ; Times: 5
+	Date: 2020-09-15 ; Times: 7
+	Date: 2020-09-30 ; Times: 10
+	Date: 2020-09-17 ; Times: 10
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-11 ; Times: 21
+	Date: 2020-09-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Black-bellied Sandgrouse vntype:specimen" ; Times: 1
+	Query: "Sealy crested auklet" ; Times: 1
+	Query: "family:Icteridae stateprovince:&#34;California&#34; year &gt;= 1985 year &lt;= 1987" ; Times: 2
+	Query: "C.G. Harold" ; Times: 1
+	Query: "family:Dicruridae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen country:&#34;Canada&#34; (Tetrao)" ; Times: 1
+	Query: "Waxwing class:Aves preparations:Mount year &lt;= 1987 institutioncode:UBCBBM" ; Times: 1
+	Query: "order:Tinamiformes class:aves preparations:Egg" ; Times: 2
+	Query: "Accipitriformes class:Aves preparations:Mount institutioncode:UBCBBM" ; Times: 1
+	Query: "class:Aves recordedby:Matthews" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:sturnus year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Eremophila alpestris flava" ; Times: 2
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "specificepithet:notata genus:Chlorostilbon" ; Times: 4
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Pterocles orientalis" ; Times: 1
+	Query: "Hawk class:Aves preparations:Mount year &lt;= 1987 institutioncode:UBCBBM" ; Times: 1
+	Query: "order:Coraciiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 2
+	Query: "specificepithet:thyroideus genus:Sphyrapicus institutioncode:UBCBBM" ; Times: 1
+	Query: "lagopus muta canada" ; Times: 1
+	Query: "Red-billed Pigeon" ; Times: 1
+	Query: "order:Phoenicopteriformes class:aves preparations:Egg" ; Times: 1
+	Query: "Polyplectron bicalcaratum vntype:specimen" ; Times: 1
+	Query: "Lark Bunting" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao country:&#34;Canada&#34; hassex:1" ; Times: 2
+	Query: "xiphidiopicus percussus" ; Times: 2
+	Query: "Bald eagle year &lt;= 1989 institutioncode:UBCBBM" ; Times: 2
+	Query: "Eremopterix griseus" ; Times: 1
+	Query: "DUSKY FLYCATCHER" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:turdus country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "medd" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 2
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Aquila chrysaetos year &lt;= 1987 institutioncode:UBCBBM haslifestage:1" ; Times: 1
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Pandion haliaetus year &lt;= 1987 institutioncode:UBCBBM haslifestage:1" ; Times: 1
+	Query: "falco peregrinus year &lt;= 1989 institutioncode:UBCBBM haslifestage:1" ; Times: 1
+	Query: "vntype:specimen genus:Callonetta class:Aves" ; Times: 1
+	Query: "Haliaeetus pelagicus institutioncode:UBCBBM" ; Times: 1
+	Query: "family:Monarchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Oriolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "thick-billed murre" ; Times: 1
+	Query: "Falco peregrinus Langara Island" ; Times: 2
+	Query: "class:Aves preparations:Mount year &lt;= 1987 institutioncode:UBCBBM" ; Times: 1
+	Query: "Pandion haliaetus year &lt;= 1987 institutioncode:UBCBBM" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "egg specificepithet:atricapillus genus:Poecile country:&#34;canada&#34; month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Sealy Least Auklet" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 56
+	Query: "black-bellied sandgrouse" ; Times: 1
+	Query: "specificepithet:perdicaria genus:nothoprocta family:tinamidae preparations:egg year &gt;= 1901" ; Times: 2
+	Query: "Haliaeetus leucocephalus preparations:Skin year &lt;= 1987 institutioncode:UBCBBM haslifestage:1" ; Times: 1
+	Query: "order:Sphenisciformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Sealy parakeet auklet" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Los Coronados)" ; Times: 1
+	Query: "order:Phaethontiformes class:aves preparations:Egg" ; Times: 1
+	Query: "Psittacula krameri manillensis" ; Times: 1
+	Query: "yellow breasted bunting" ; Times: 1
+	Query: "genus:Pinicola class:Aves year &gt;= 1896 year &lt;= 1896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amazona oratrix" ; Times: 1
+	Query: "order:Sphenisciformes class:aves preparations:Egg" ; Times: 1
+	Query: "falco peregrinus year &lt;= 1989 institutioncode:UBCBBM" ; Times: 1
+	Query: "order:Gaviiformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Phaethontiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Aquila chrysaetos preparations:Skin year &lt;= 1987 institutioncode:UBCBBM haslifestage:1" ; Times: 1
+	Query: "x warbler" ; Times: 3
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "order:Phoenicopteriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Psittaciformes class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 2
+	Query: "Mangrove Cuckoo" ; Times: 1
+	Query: "black-bellied sandgrouse vntype:specimen" ; Times: 1
+	Query: "scientificname:Geospiza propinqua" ; Times: 1
+	Query: "Cathartes aura year &lt;= 1989 institutioncode:UBCBBM haslifestage:1" ; Times: 1
+	Query: "genus:sittasomus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thayer Queen Charlotte Islands" ; Times: 1
+	Query: "egg specificepithet:atricapillus genus:Poecile country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "order:Tinamiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Thayer Haida Gwaii" ; Times: 1
+	Query: "scientificname:Fratercula artica" ; Times: 1
+	Query: "turnix sylvaticus" ; Times: 1
+	Query: "genus:Picoides" ; Times: 1
+	Query: "Plectrophenax hyperboreus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus AND NOT Los Coronados)" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 8
+	Query: "common moorhen" ; Times: 1
+	Query: "Haliaeetus year &lt;= 1989 institutioncode:UBCBBM" ; Times: 1
+	Query: "class:Aves recordedby:Matthews basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &lt;= 1987 institutioncode:UBCBBM haslifestage:1" ; Times: 1
+	Query: "Waxwing preparations:Mount year &lt;= 1987 institutioncode:UBCBBM" ; Times: 1
+	Query: "order:Gaviiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Accipitriformes class:Aves preparations:Mount year &lt;= 1987 institutioncode:UBCBBM" ; Times: 3
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:North America hassex:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 109 (out of 976 download events in this period)
+Total number of records downloaded: 4741
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 7
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 25
+	Country: Australia ; Times: 59
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-02 ; Times: 6
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-04 ; Times: 3
+	Date: 2020-09-21 ; Times: 32
+	Date: 2020-09-20 ; Times: 5
+	Date: 2020-09-23 ; Times: 13
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 11
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-13 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "order:Pelecaniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Black-bellied Sandgrouse vntype:specimen" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "order:Cuculiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Dicruridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Tyrannidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen country:&#34;Canada&#34; (Tetrao)" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "family:Laniidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Tinamiformes class:aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "order:Piciformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "order:Galliformes class:aves preparations:Egg" ; Times: 2
+	Query: "order:Coraciiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "order:Phoenicopteriformes class:aves preparations:Egg" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 3
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "order:Ciconiiformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Charadriiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "order:cuculiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "order:Cuculiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "order:Gruiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "family:Monarchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Oriolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Procellariiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe hassex:1" ; Times: 1
+	Query: "APUS barbatus" ; Times: 1
+	Query: "order:Strigiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "order:Podicipediformes class:aves preparations:Egg" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pterocles orientalis vntype:specimen" ; Times: 1
+	Query: "order:Accipitriformes class:aves preparations:Egg" ; Times: 2
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "family:Corvidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:perdicaria genus:nothoprocta family:tinamidae preparations:egg year &gt;= 1901" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "order:Sphenisciformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Columbiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Pelecaniformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Phaethontiformes class:aves preparations:Egg" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "order:Procellariiformes class:aves preparations:Egg" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "hirundapus caudacutus" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "order:Sphenisciformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Galliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Gaviiformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Phaethontiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Anseriformes class:aves preparations:Egg" ; Times: 2
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "order:Phoenicopteriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Suliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Psittaciformes class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "order:Apodiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Vireonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Podicipediformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "order:Falconiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Accipitriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Tinamiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "order:Anseriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "order:Apodiformes class:Aves preparations:Egg" ; Times: 3
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Synthliboramphus OR Endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "order:Suliformes class:aves preparations:Egg" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "order:Ciconiiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Gaviiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Paridae class:Aves preparations:Egg" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+
+
+End of report.
